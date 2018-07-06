@@ -78,13 +78,17 @@ analytics:
 
 # Site Author
 author:
-  name             : "That's me :)"
+  name             : #"That's me :)"
   avatar           : "Zacniewski_200x200px.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Poland"
-  employer         :
+  bio              : #"Your biography for the left-hand sidebar"
+  linkedin         : "artur-zacniewski-29436928"
+  github           : "zacniewski"
   googlescholar    : "https://scholar.google.pl/citations?user=8O4cHKMAAAAJ&hl=en"
+
+  employer         : "Polish Naval Academy"
+
   email            : "a.zacniewski@gmail.com"
+  location         : "Poland"
   uri              :
   bitbucket        :
   codepen          :
@@ -92,12 +96,11 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "zacniewski"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "artur-zacniewski-29436928"
+
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
