@@ -78,13 +78,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
+  name             : "That's me :)"
+  avatar           : "Zacniewski_200x200px.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Poland"
   employer         :
   googlescholar    : "https://scholar.google.pl/citations?user=8O4cHKMAAAAJ&hl=en"
-  email            :
+  email            : "a.zacniewski@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
