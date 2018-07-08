@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Artur Zacniewski, Ph.D."
 title_separator          : "-"
 name                     : &name "Artur Zacniewski"
-description              : &description "Assistant Professor at Polish Naval Academytion"
+description              : &description "Assistant Professor at Polish Naval Academy"
 url                      : https://zacniewski.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zacniewski.github.io"
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : #"That's me :)"
   avatar           : "Zacniewski_200x200px.png"
-  bio              : "I'm an Assistant Professor in Polish Naval Academy"
+  bio              : "I'm an Assistant Professor at Polish Naval Academy"
   location         : "I live in Poland"
   employer         :
   googlescholar    : "https://scholar.google.pl/citations?user=8O4cHKMAAAAJ&hl=en"
