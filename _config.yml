@@ -80,7 +80,7 @@ analytics:
 author:
   name             : #"That's me :)"
   avatar           : "Zacniewski_200x200px.png"
-  bio              : "I'm an Assistant Professor @ <a href='https://www.amw.gdynia.pl/index.php/en/'>Polish Naval Academy</a>"
+  bio              : "I'm an Assistant Professor at <a href='https://www.amw.gdynia.pl/index.php/en/'>Polish Naval Academy</a>"
   location         : # "I live in Poland"
   employer         :
   googlescholar    : "https://scholar.google.pl/citations?user=8O4cHKMAAAAJ&hl=en"
