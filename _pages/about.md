@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I was always interested in math and technical "things", from working with circuit boards to programming simple microprocessors. After many years on different positions (mostly non-scientific at all) I re-discovered the world of science. I started from Digital Signal Processing with Matlab, then I was engaged in Multicriterial Optimization and Evolutionary Algorithms, which resulted in my PhD. After that I fell in love with Python and its versatile ecosystem for scientific and web projects.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Currently my favorite area is Computer Vision and I have a lot to learn and a lot to do in this field. The world of CV is fascinating and in connection with Machine Learning, Neural Networks (and few others) has almost unlimited potential. Detecting and tracking objects, recognizing words and characters, and other things related to CV are very absorbing, and give a lot of pleasure. That's why I like it.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;By the way, you can check my profile at [Research Gate](https://www.researchgate.net/profile/Artur_Zacniewski) to check my interests and to discover what I'm currently working on.
+<div style="text-justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I was always interested in math and technical "things", from working with circuit boards to programming simple microprocessors. After many years on different positions (mostly non-scientific at all) I re-discovered the world of science. I started from Digital Signal Processing with Matlab, then I was engaged in Multicriterial Optimization and Evolutionary Algorithms, which resulted in my PhD. After that I fell in love with Python and its versatile ecosystem for scientific and web projects.</div>
+
+<div style="text-justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Currently my favorite area is Computer Vision and I have a lot to learn and a lot to do in this field. The world of CV is fascinating and in connection with Machine Learning, Neural Networks (and few others) has almost unlimited potential. Detecting and tracking objects, recognizing words and characters, and other things related to CV are very absorbing, and give a lot of pleasure. That's why I like it.</div>
+
+<div style="text-justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;By the way, you can check my profile at [Research Gate](https://www.researchgate.net/profile/Artur_Zacniewski) to check my interests and to discover what I'm currently working on.</div>
 
 A data-driven personal website
 ======
