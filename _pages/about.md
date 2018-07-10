@@ -10,17 +10,13 @@ redirect_from:
 
 <div style="text-align: justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I was always interested in math and technical "things", from working with circuit boards to programming simple microprocessors. After many years on different positions (mostly non-scientific at all) I re-discovered the world of science. I started from Digital Signal Processing with Matlab, then I was engaged in Multicriterial Optimization and Evolutionary Algorithms, which resulted in my PhD. After that I fell in love with Python and its versatile ecosystem for scientific and web projects.</div>
 
-<div style="text-align: justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Currently my favorite area is Computer Vision and I have a lot to learn and a lot to do in this field. The world of CV is fascinating and in connection with Machine Learning, Neural Networks (and few others) has almost unlimited potential. Detecting and tracking objects, recognizing words and characters, and other things related to CV are very absorbing, and give a lot of pleasure. That's why I like it.</div>
+<div style="text-align: justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Currently my favorite area is Computer Vision and I still have a lot to learn and a lot to do in this field. The world of CV is fascinating and in connection with Machine Learning, Neural Networks (and few others) has almost unlimited potential. Detecting and tracking objects, recognizing words and characters, and other things related to CV are very absorbing, and give a lot of pleasure. That's why I like it.</div>
 
 <div style="text-align: justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;By the way, you can check my profile at <a href="https://www.researchgate.net/profile/Artur_Zacniewski">Research Gate</a> to check my interests and to discover what I'm currently working on.</div><br>
 
-A data-driven personal website
+Education and industry
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+<div style="text-align: justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In my <a href="http://www.iuoii.amw.gdynia.pl/">institute</a> I'm focused mostly on education, but I like programming and scientific research the most. I was a supervisor of many engineering (B.Sc) projects and I also worked as a developer. I think that experience gained in commercial industry (both job in IT company or cooperation in projects) is priceless.</div>
 
-
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
 
