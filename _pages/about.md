@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my website"
+#title: "Welcome to my website"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -14,7 +14,7 @@ redirect_from:
 
 <div style="text-align: justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;By the way, you can check my profile at <a href="https://www.researchgate.net/profile/Artur_Zacniewski">Research Gate</a> to look at my interests and to discover what I'm currently working on. And you can contact me with links on the left.</div><br>
 
-Work
+Work, work, work ...
 ======
 <div style="text-align: justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In my <a href="http://www.iuoii.amw.gdynia.pl/">institute</a> I'm focused mostly on education, but I like programming and scientific research the most. I was a supervisor of many engineering (B.Sc) projects and I also worked as a developer, and R&D manager of scientific project. I think that experience gained in commercial industry (both job in IT company or cooperation in projects) is priceless.</div>
 
