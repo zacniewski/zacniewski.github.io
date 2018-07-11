@@ -13,7 +13,7 @@ About me ...
 <div style="text-align: justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm an educator and scientist from Poland, who focuses on Computer Vision and Internet Technologies. I'm involved in educational, scientific and commercial projects, related to these areas.</div>
 
  
-<div style="text-align: justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Currently my favorite area is Computer Vision and I still have a lot to learn and a lot to do in this field. The world of CV is fascinating and in connection with Machine Learning, Neural Networks (and few others) has almost unlimited potential. Detecting and tracking objects, recognizing words and characters, and other things related to CV are very absorbing, and give a lot of pleasure. That's why I like it.</div>
+<div style="text-align: justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Currently my favorite area is Computer Vision and I still have a lot to learn and a lot to do in this field. The world of CV is fascinating and in connection with Machine Learning, Neural Networks (and few others) has almost unlimited potential. Detecting anomalies, tracking objects, recognizing words, and many other things related to CV are very absorbing, and give a lot of pleasure. That's why I like it.</div>
 
 <div style="text-align: justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;By the way, you can check my profile at <a href="https://www.researchgate.net/profile/Artur_Zacniewski">Research Gate</a> to look at my interests and to discover what I'm currently working on. And you can contact me with links on the left.</div><br>
 
