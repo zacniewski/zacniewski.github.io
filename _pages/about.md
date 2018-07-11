@@ -1,14 +1,13 @@
 ---
 permalink: /
 #title: "Welcome to my website"
-#excerpt: "About me"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-# About me ...
 
 <div style="text-align: justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm an educator and scientist from Poland, who focuses on Computer Vision and Internet Technologies. I'm involved in educational, scientific and commercial projects, related to these areas.</div>
  
