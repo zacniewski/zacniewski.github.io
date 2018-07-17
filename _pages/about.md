@@ -13,7 +13,7 @@ redirect_from:
  
 <div style="text-align: justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm mostly concerned with Computer Vision and I still have a lot to learn and a lot to do in this field. The world of CV is fascinating and in connection with Machine Learning, Neural Networks (and few others) has almost unlimited potential. Detecting anomalies, tracking objects, recognizing text, and many other things related to CV are very absorbing, and give a lot of pleasure. That's why I like it :)</div>
 
-<div style="text-align: justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;By the way, you can check my profile at <a href="https://www.researchgate.net/profile/Artur_Zacniewski">Research Gate</a> to look at my interests and to discover what I'm currently working on. And you can contact me through links below my photo.</div><br>
+<div style="text-align: justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;By the way, you can check my scientific profiles to look at my interests and to discover what I'm currently working on. You can contact me through links below my photo.</div><br>
 
 Work, work, work ...
 ======
