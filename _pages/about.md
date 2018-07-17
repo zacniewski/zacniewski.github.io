@@ -17,7 +17,7 @@ redirect_from:
 
 Work, work, work ...
 ======
-<div style="text-align: justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In my <a href="http://www.iuoii.amw.gdynia.pl/">institute</a>I like programming and scientific research the most, and I also conduct lectures and laboratories on "Computer Vision", "WWW technologies", "Introduction to Machine Learning" and "Basics of Android programming". I was (and I am still) a supervisor of many engineering (B.Sc) projects. I also worked as a developer (Python, WWW) in a few IT companies. </div>
+<div style="text-align: justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In my <a href="http://www.iuoii.amw.gdynia.pl/">institute</a> I prefer programming and scientific research the most, and I also conduct lectures and laboratories on "Computer Vision", "WWW technologies", "Introduction to Machine Learning" and "Basics of Android programming". I was (and I am still) a supervisor of many engineering (B.Sc) projects. I also worked as a developer (Python, WWW) in a few IT companies. </div>
 
 <div style="text-align: justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I have an honour and big pleasure to be an R&D Manager in the <a href="https://toucan-systems.pl/toucaneye/">Toucan Eye</a> project. It is an Artificial Intelligence system assisting persons with impaired sight. Project was gained from The National Centre for Research and Development in 2017. I think that experience gained in commercial industry (both jobs in IT and cooperation in projects) is priceless.</div>
 
