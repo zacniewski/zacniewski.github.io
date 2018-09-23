@@ -8,6 +8,8 @@ date: 2018-10-01
 location: "Gdynia, Polska"
 ---
 
+Zagadnienia i sposób zaliczenia:
+
 Tematy zadań
 ======
 

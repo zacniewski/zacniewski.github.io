@@ -7,8 +7,8 @@ venue: "AMW, WNiUO"
 date: 2018-10-01
 location: "Gdynia, Polska"
 ---
-
-Punkty za laboratoria 1 - 10 oraz ocena końcowa i ocena za egzamin.
+Oceny zaliczeniowe:
+Tabele zawierają punkty za laboratoria 1 - 10 oraz ocenę końcową i ocenę za egzamin.
 
 Programowanie równoległe i rozproszone - grupa 155IC
 ======

@@ -8,4 +8,6 @@ date: 2019-02-01
 location: "Gdynia, Polska"
 ---
 
+Zagadnienia i sposób zaliczenia:
+
 Coming soon ...
