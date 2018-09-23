@@ -1,8 +1,8 @@
 ---
-title: "Projektowanie serwisów WWW"
+title: "Aplikacje mobilne dla systemu Android"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+type: "Wykłady i laboratoria"
+permalink: /teaching/2019-android
 venue: "AMW, WNiUO"
 date: 2018-10-01
 location: "Gdynia, Polska"
