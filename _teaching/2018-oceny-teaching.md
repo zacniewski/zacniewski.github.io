@@ -13,7 +13,7 @@ This is a description of a teaching experience33. You can use markdown like any 
 Programowanie równoległe i rozproszone - grupa 155IC
 ======
 
-|  L.p. | Nr indeksu      | Lab 1 | Lab2  |Lab 3  | Lab4   |Lab 5  | Lab6   |Lab 7  | Lab8   | Lab9   | Lab10   | LAB KOŃCOWA   | EGZAMIN   |
+|  L.p. | Nr indeksu      | Lab_1 | Lab_2  |Lab_3  | Lab_4   |Lab_5  | Lab_6   |Lab_7  | Lab_8   | Lab_9   | Lab_10   | LAB KOŃCOWA   | EGZAMIN   |
 |:-----:| :-------------: |:-----:|:-----:|:-----:|:-----: |:-----:|:-----: |:-----:|:-----: |:-----: |:-----:  |:-----:        |:-----:    |
 |   1   |     18790       |   0   |   0   |   0   |   0    |   0   |   0    |   0   |   0    |   0    |   0     |       0       |     0     |
 |   2   |     18304       |   0   |   0   |   0   |   0    |   0   |   0    |   0   |   0    |   0    |   0     |       0       |     0     |
