@@ -32,7 +32,7 @@ Zasady zaliczenia przedmiotu
 Punkty i oceny
 ======
 
-     Liczba punktów    	| Ocena    |
+|    Liczba punktów    	| Ocena    |
 |    :-------------:	| :-----:  |
 |    45 - 50	        |     5    |
 |    39 - 44	        |    4,5   |
