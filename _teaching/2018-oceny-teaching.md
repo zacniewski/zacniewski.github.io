@@ -59,6 +59,7 @@ Projektowanie serwisów WWW - grupa 165IC_A
 
 Projektowanie serwisów WWW - grupa 165IC_B
 ======
+
 |  L.p. | Nr indeksu      | Lab_1 | Lab_2 |Lab_3  | Lab_4  |Lab_5  | Lab_6  |Lab_7  | Lab_8  | Lab_9  | Lab_10  | LAB KOŃCOWA   | EGZAMIN   |
 |:-----:| :-------------: |:-----:|:-----:|:-----:|:-----: |:-----:|:-----: |:-----:|:-----: |:-----: |:-----:  |:-----:        |:-----:    |
 |   1   |     00000       |   0   |   0   |   0   |   0    |   0   |   0    |   0   |   0    |   0    |   0     |       0       |     0     |
