@@ -2,7 +2,7 @@
 title: "Oceny"
 collection: teaching
 type: "Wykłady i laboratoria"
-permalink: /teaching/2019-android
+permalink: /teaching/oceny
 venue: "AMW, WNiUO"
 date: 2018-10-01
 location: "Gdynia, Polska"
