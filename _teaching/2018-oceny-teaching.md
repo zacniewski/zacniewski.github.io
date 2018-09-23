@@ -1,14 +1,14 @@
 ---
 title: "Zaliczenia i oceny"
 collection: teaching
-type: "Wykłady i laboratoria"
+type: "Ewaluacja"
 permalink: /teaching/zaliczenia-i-oceny
 venue: "AMW, WNiUO"
 date: 2018-10-01
 location: "Gdynia, Polska"
 ---
 
-This is a description of a teaching experience33. You can use markdown like any other post.
+Punkty za laboratoria 1 - 10 oraz ocena końcowa i ocena za egzamin.
 
 Programowanie równoległe i rozproszone - grupa 155IC
 ======
