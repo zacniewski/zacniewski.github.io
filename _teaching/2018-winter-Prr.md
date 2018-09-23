@@ -8,8 +8,6 @@ date: 2018-10-01
 location: "Gdynia, Polska"
 ---
 
-This is a description of a teaching experience33. You can use markdown like any other post.
-
 Tematy zadań
 ======
 
@@ -24,8 +22,8 @@ Zasady zaliczenia przedmiotu
 
 1. Dowolny język do realizacji zadania.
 2. Zadanie należy zrealizować do następnych zajęć - max. 5 punktów.
-⋅⋅* Tydzień opóźnienia w realizacji zadania - max. 3 punkty.
-⋅⋅* Przekroczenie obu terminów - max. 1 punkt
+  * Tydzień opóźnienia w realizacji zadania - max. 3 punkty.
+  * Przekroczenie obu terminów - max. 1 punkt
 3. Zrealizowane zadanie należy umieścić na portalu GitHub (lub BitBucket) i wysłać link do prowadzącego (Slack).
 4. Zadanie należy zaprezentować osobiście prowadzącemu. 
 
