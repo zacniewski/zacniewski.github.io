@@ -1,5 +1,5 @@
 ---
-title: "Aplikacje mobilne dla systemu Android"
+title: "Oceny"
 collection: teaching
 type: "Wykłady i laboratoria"
 permalink: /teaching/2019-android
