@@ -16,6 +16,7 @@ Tematy zadań
 1. Programowanie współbieżne i równoległe. Wątki i procesy. 
   * Napisać programy do sekwencyjnego i współbieżnego (równoległego) pobierania danych z internetu (np. obraz, plik tekstowy);
   * Napisać programy do	sekwencyjnego i współbieżnego (równoległego) obliczania funkcji lub ciągu matematycznego (np. silnia, ciąg Fibonnaciego, liczby pierwsze);
+  * Należy porównać czasy wykonań obu wersji danego programu.
 2. Coming soon ...
 3. Coming soon ...
 
