@@ -13,13 +13,11 @@ Zagadnienia i sposób zaliczenia:
 Tematy zadań
 ======
 
-| L.p. |     Temat     	| Zadanie do realizacji    |
-| :---:|:-------------:	| :-----: |
-|   1  | Programowanie współbieżne i równoległe. Wątki i procesy. | Napisać programy do:  <br> - sekwencyjnego i współbieżnego pobierania danych z internetu (np. obraz, plik tekstowy);<br>
-						 - sekwencyjnego i współbieżnego obliczania funkcji lub ciągu matematycznego (np. silnia, ciąg Fibonnaciego, liczby pierwsze);<br>|
-
-|   2  | Temat 2        | Opis 2  |
-|   3  | Temat 3        | Opis 3  |
+1. Programowanie współbieżne i równoległe. Wątki i procesy. 
+  * Napisać programy do sekwencyjnego i współbieżnego (równoległego) pobierania danych z internetu (np. obraz, plik tekstowy);
+  * Napisać programy do	sekwencyjnego i współbieżnego (równoległego) obliczania funkcji lub ciągu matematycznego (np. silnia, ciąg Fibonnaciego, liczby pierwsze);
+2. Coming soon ...
+3. Coming soon ...
 
 Zasady zaliczenia przedmiotu
 ======
