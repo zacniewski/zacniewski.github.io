@@ -13,11 +13,10 @@ Zagadnienia i sposób zaliczenia:
 Tematy zadań
 ======
 
-| L.p. |     Temat     	| Opis    |
-| :---:|:-------------:	| :-----: |
-|   1  | Temat 1	| Opis 1  |
-|   2  | Temat 2        | Opis 2  |
-|   3  | Temat 3        | Opis 3  |
+1. Coming soon ...
+2. Coming soon ...
+3. Coming soon ...
+4. Coming soon ...
 
 Zasady zaliczenia przedmiotu
 ======
