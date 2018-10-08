@@ -13,9 +13,12 @@ Zagadnienia i sposób zaliczenia:
 Tematy zadań
 ======
 
-| L.p. |     Temat     	| Opis    |
+| L.p. |     Temat     	| Zadanie do realizacji    |
 | :---:|:-------------:	| :-----: |
-|   1  | Temat 1	| Opis 1  |
+|   1  | Programowanie współbieżne i równoległe. Wątki i procesy. | Napisać programy do:  <br> - sekwencyjnego i współbieżnego pobierania danych z internetu (np. obraz, plik tekstowy);<br>
+						 - sekwencyjnego i współbieżnego obliczania funkcji lub ciągu matematycznego (np. silnia, ciąg Fibonnaciego, liczby pierwsze);<br>
+																	|
+
 |   2  | Temat 2        | Opis 2  |
 |   3  | Temat 3        | Opis 3  |
 
@@ -26,8 +29,9 @@ Zasady zaliczenia przedmiotu
 2. Zadanie należy zrealizować do następnych zajęć - max. 5 punktów,
   * Tydzień opóźnienia w realizacji zadania - max. 3 punkty,
   * Przekroczenie obu terminów - max. 1 punkt.
-3. Zrealizowane zadanie należy umieścić na portalu GitHub (lub BitBucket) i wysłać link do prowadzącego (Slack).
-4. Zadanie należy zaprezentować osobiście prowadzącemu. 
+3. Zrealizowane zadanie należy umieścić na portalu GitHub (lub BitBucket) i wysłać link do repozytorium do prowadzącego (Slack).
+4. Należy wykonać zrzuty ekranu z wynikami i również umieścić je w repozytorium.
+5. Zadanie należy zaprezentować osobiście prowadzącemu (najlepiej na bieżących lub kolejnych zajęciach). 
 
 Punkty i oceny
 ======
