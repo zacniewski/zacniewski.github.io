@@ -26,9 +26,11 @@ Tematy zadań
   * Stworzyć przykładową tabelę (p. 3e) o dowolnej tematyce. 
   * CSS - użyć jednostki miar względne i bezwzględne (p. 4a).
   * Przejrzeć p. 4b i zastosować wybrane przez siebie właściwości CSS.
+  * Zastosować pseudoklasy do linków (p.4a).
   * Zastosować formy i układy selektorów (p.4a).
   * Zapoznać się z przykładowym modelem DOM (p. 2c) oraz <a href="https://kurs.browsehappy.pl/JavaScript/DOM" target="_blank">link1</a> 
     i <a href="https://jakubjurkian.pl/kurs-javascript-drzewo-dom-wybieranie-elementow/" target="_blank">link2</a>
+  * Stworzyć nowe elementy (np. createElement i appendChild) oraz dodać do nich style (metoda 'style') i klasy ('add')
 3. Projektowanie aplikacji bazodanowej. Model MVC (lub MTV w innych frameworkach).
   * Tworzenie bazy danych, zapytania w konsoli.
   * Coming soon ...
