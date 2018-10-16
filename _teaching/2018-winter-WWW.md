@@ -14,12 +14,26 @@ Tematy zadań
 ======
 
 1. Praca z systemem kontroli wersji. Podstawy WWW.
-  * Stworzyć prostą stronę WWW, nie wymagającą użycia serwera webowego;
+  * Stworzyć prostą stronę WWW (link ze Slacka), nie wymagającą użycia serwera webowego;
   * Użycie HTML, CSS i JS do ww. zadania;
   * Utworzyć zdalne repozytorium i przesłać tam wykonaną stronę.
-2. Coming soon ...
-3. Coming soon ...
-4. Coming soon ...
+2. Podstawy WWW - kontynuacja. Model DOM.
+  * Zastosować na stronie znaczniki odpowiadające za układ strony - section, article, aside, header, footer, nav: <a href="http://how2html.pl/div-sekcje-html5/" target="_blank">pomoc</a>
+  * Utworzyć plik drugi.html, który będzie wykorzystywany do adresowania względnego. Plik powinien zawierać podstawowy układ strony HTML.
+  * Pomoc do dalszej części zadań: <a href="http://www.teacher.webd.pl/kurs_html5/k_0_0_0.php" target="_blank">pomoc</a>
+  * Stworzyć link (adres względny - p. 3d) na stronie index.html do strony drugi.html i tam należy umieszczać kolejne części zadania.
+  * Użyć elementów blokowych (p. 3a), elementów wstawionych (p. 3b) i elementów osadzonych (p. 3c) 
+  * Stworzyć przykładową tabelę (p. 3e) o dowolnej tematyce. 
+  * CSS - użyć jednostki miar względne i bezwzględne (p. 4a).
+  * Przejrzeć p. 4b i zastosować wybrane przez siebie właściwości CSS.
+  * Zastosować formy i układy selektorów (p.4a).
+  * Zapoznać się z przykładowym modelem DOM (p. 2c) oraz <a href="https://kurs.browsehappy.pl/JavaScript/DOM" target="_blank">link1</a> 
+    i <a href="https://jakubjurkian.pl/kurs-javascript-drzewo-dom-wybieranie-elementow/" target="_blank">link2</a>
+3. Projektowanie aplikacji bazodanowej. Model MVC (lub MTV w innych frameworkach).
+  * Tworzenie bazy danych, zapytania w konsoli.
+  * Coming soon ...
+4. Formularze. Podstawy Bootstrap i jQuery.
+  * coming soon
 
 Zasady zaliczenia przedmiotu
 ======
