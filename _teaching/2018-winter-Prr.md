@@ -17,11 +17,15 @@ Tematy zadań
   * Napisać programy do sekwencyjnego i współbieżnego (równoległego) pobierania danych z internetu (np. obraz, plik tekstowy);
   * Napisać programy do	sekwencyjnego i współbieżnego (równoległego) obliczania funkcji lub ciągu matematycznego (np. silnia, ciąg Fibonnaciego, liczby pierwsze);
   * Należy porównać czasy wykonań obu wersji danego programu.
-2. Komunikacja i synchronizacja między watkami.
+
+2. Komunikacja i synchronizacja między wątkami.
   * Napisać program wykorzystujący synchronizację między wątkami do realizacji określonego zadania;
   * Ww. program należy pozbawić synchronizacji wątków i zapisać pod nową nazwą;
   * Należy porównać wyniki wykonań obu programu.
-3. Coming soon ...
+
+3. Web Scraper
+  * Napisać program wykorzystujący ideę web-scrapingu do pobierania konkretnych danych ze strony WWW;
+
 
 Zasady zaliczenia przedmiotu
 ======

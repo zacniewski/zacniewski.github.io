@@ -17,6 +17,7 @@ Tematy zadań
   * Stworzyć prostą stronę WWW (link ze Slacka), nie wymagającą użycia serwera webowego;
   * Użycie HTML, CSS i JS do ww. zadania;
   * Utworzyć zdalne repozytorium i przesłać tam wykonaną stronę.
+
 2. Podstawy WWW - kontynuacja. Model DOM.
   * Zastosować na stronie znaczniki odpowiadające za układ strony - section, article, aside, header, footer, nav: <a href="http://how2html.pl/div-sekcje-html5/" target="_blank">pomoc</a>
   * Utworzyć plik drugi.html, który będzie wykorzystywany do adresowania względnego. Plik powinien zawierać podstawowy układ strony HTML.
@@ -30,12 +31,18 @@ Tematy zadań
   * Zastosować formy i układy selektorów (p.4a).
   * Zapoznać się z przykładowym modelem DOM (p. 2c) oraz <a href="https://kurs.browsehappy.pl/JavaScript/DOM" target="_blank">link1</a> 
     i <a href="https://jakubjurkian.pl/kurs-javascript-drzewo-dom-wybieranie-elementow/" target="_blank">link2</a>
-  * Stworzyć nowe elementy (np. createElement i appendChild) oraz dodać do nich style (metoda 'style') i klasy ('add')
+  * Stworzyć nowe elementy (np. createElement i appendChild) oraz dodać do nich style (metoda 'style') i klasy ('add').
+
 3. Projektowanie aplikacji bazodanowej. Model MVC (lub MTV w innych frameworkach).
-  * Tworzenie bazy danych, zapytania w konsoli.
-  * Coming soon ...
-4. Formularze. Podstawy Bootstrap i jQuery.
-  * coming soon
+  * Zaprojektować serwis WWW typu 'blog'.
+  * Utworzyć bazę danych, np. poprzez ORM (mapowanie obiektowo - relacyjne).
+  * Uruchomić i przetestować serwer deweloperski.
+  * Wykonać proste zapytania do bazy danych w konsoli (zapisać zrzuty ekranu).
+
+4. Formularze. Podstawy Bootstrap i jQuery. AJAX.
+  * Wykonać prosty formularz i za jego pomocą należy zaktualizować bazę danych.
+  * Zmodyfikować serwis za pomocą frameworka Bootstrap i biblioteki jQuery.
+  * Zastosować technologię AJAX do aktualizacji wybranego fragmentu strony.
 
 Zasady zaliczenia przedmiotu
 ======
