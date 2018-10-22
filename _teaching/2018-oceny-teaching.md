@@ -11,9 +11,9 @@ Oceny zaliczeniowe:
 <p>Tabele zawierają punkty za laboratoria 1 - 10 oraz sumę punktów i ocenę na zaliczenie (lub za egzamin).</p>
 1. Oznaczenia 
   * Liczba 0-5 oznacza punkty za dane laboratorium,
-  * + oznacza przesłanie (lub pokazanie) pracy w terminie, ale nie odbyła się rozmowa "na żywo" (lub brak przesłanego linku do repo),
-  * - oznacza opóźnienie w zaliczeniu laboratorium mniejsze od tygodnia (max. 3 punkty),
-  * ! oznacza opóźnienie w zaliczeniu laboratorium powyżej tygodnia (max. 1 punkt).
+  * '+' oznacza przesłanie (lub pokazanie) pracy w terminie, ale nie odbyła się rozmowa "na żywo" (lub brak przesłanego linku do repo),
+  * '-' oznacza opóźnienie w zaliczeniu laboratorium mniejsze od tygodnia (max. 3 punkty),
+  * '!' oznacza opóźnienie w zaliczeniu laboratorium powyżej tygodnia (max. 1 punkt).
 
 Programowanie równoległe i rozproszone - grupa 155IC
 ======
