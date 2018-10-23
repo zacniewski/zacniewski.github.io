@@ -33,16 +33,29 @@ Tematy zadań
     i <a href="https://jakubjurkian.pl/kurs-javascript-drzewo-dom-wybieranie-elementow/" target="_blank">link2</a>
   * Stworzyć nowe elementy (np. createElement i appendChild) oraz dodać do nich style (metoda 'style') i klasy ('add').
 
-3. Projektowanie aplikacji bazodanowej. Model MVC (lub MTV w innych frameworkach).
+3. Projektowanie aplikacji bazodanowej. Architektura klient-serwer. Model MVC (lub MTV w innych frameworkach).
   * Zaprojektować serwis WWW typu 'blog'.
+  * Uruchomić i przetestować serwer deweloperski, "sprawdzić" kody statusowe HTTP.
   * Utworzyć bazę danych, np. poprzez ORM (mapowanie obiektowo - relacyjne).
-  * Uruchomić i przetestować serwer deweloperski.
   * Wykonać proste zapytania do bazy danych w konsoli (zapisać zrzuty ekranu).
+  * Utworzyć proste elementy M, V, C lub M, T, V.
 
 4. Formularze. Podstawy Bootstrap i jQuery. AJAX.
   * Wykonać prosty formularz i za jego pomocą należy zaktualizować bazę danych.
   * Zmodyfikować serwis za pomocą frameworka Bootstrap i biblioteki jQuery.
   * Zastosować technologię AJAX do aktualizacji wybranego fragmentu strony.
+
+5. REST i RESTful API.
+  * ... coming soon ...
+
+6. Sesje i ciasteczka.
+  * ... coming soon ...
+
+7. Autentykacja i autoryzacja - system logowania.
+  * ... coming soon ...
+
+8. Heroku
+  * ... coming soon ...
 
 Zasady zaliczenia przedmiotu
 ======

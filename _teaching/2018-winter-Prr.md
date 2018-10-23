@@ -23,8 +23,15 @@ Tematy zadań
   * Ww. program należy pozbawić synchronizacji wątków i zapisać pod nową nazwą;
   * Należy porównać wyniki wykonań obu programu.
 
-3. Web Scraper
+3. Web Scraping
   * Napisać program wykorzystujący ideę web-scrapingu do pobierania konkretnych danych ze strony WWW;
+  * Spróbowac uruchomić ww. program na kilku wątkach, przy czym każdy wątek wykonuje inne zadanie.
+
+4. Kolejkowanie zadań. RabbitMQ, Celery.
+  * ... coming soon ...
+
+5. Web Sockets
+  * ... coming soon ...
 
 
 Zasady zaliczenia przedmiotu
