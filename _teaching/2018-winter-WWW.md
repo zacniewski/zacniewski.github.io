@@ -43,19 +43,33 @@ Tematy zadań
 4. Formularze. Podstawy Bootstrap i jQuery. AJAX.
   * Wykonać prosty formularz i za jego pomocą należy zaktualizować bazę danych.
   * Zmodyfikować serwis za pomocą frameworka Bootstrap i biblioteki jQuery.
-  * Zastosować technologię AJAX do aktualizacji wybranego fragmentu strony.
+  * Zastosować technologię AJAX (może być z jQuery) do aktualizacji wybranego fragmentu strony.
 
 5. REST i RESTful API.
-  * ... coming soon ...
+  * Dodać do serwisu funkcje CRUD (ang. create, read, update, delete);
+  * Wygenerować przykładowe odpowiedzi serwera (responses) w postacji JSON lub XML.
+  
 
-6. Sesje i ciasteczka.
-  * ... coming soon ...
+6. SQL.
+  * Zrealizować proste i średnio zaawansowane zapytania SQL;
+  * Rodzaje zapytań np. z <a href="https://www.w3schools.com/sql/default.asp" target="_blank">tej strony</a> (od SQL SELECT do SQL INSERT INTO SELECT z menu po lewej)
 
-7. Autentykacja i autoryzacja - system logowania.
-  * ... coming soon ...
 
-8. Heroku
-  * ... coming soon ...
+7. Autentykacja i autoryzacja.
+  * Przeanalizować sesje i ciasteczka;
+  * Wdrożyć prosty system logowania.
+
+8. Wdrażanie wybranego frameworka front-endowego.
+  * Należy wybrać dowolny framework (oprócz Bootstrapa) i użyć go na swojej stronie;
+  * Do wyboru do koloru, np. <a href="https://raygun.com/blog/popular-javascript-frameworks/" target="_blank">stąd</a>.
+ 
+9. "Upiększanie" serwisu.
+  * Wykonać > 10 modyfikacji serwisu, np. wg <a href="https://www.w3schools.com/howto/default.asp"> tych wskazówek</a>.
+
+10. Praca z usługą typu PaaS (ang. Platform as a Service)
+  * Stworzyć konto np. na heroku.com	
+  * Zainstalować CLI dla Heroku (lub innej platformy);
+  * Przesłać swój projekt na Heroku zgodnie z dokumentacją.
 
 Zasady zaliczenia przedmiotu
 ======
