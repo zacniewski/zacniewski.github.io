@@ -27,11 +27,10 @@ Tematy zadań
   * Napisać program wykorzystujący ideę web-scrapingu do pobierania konkretnych danych ze strony WWW;
   * Spróbowac uruchomić ww. program na kilku wątkach, przy czym każdy wątek wykonuje inne zadanie.
 
-4. Kolejkowanie zadań. RabbitMQ, Celery.
-  * ... coming soon ...
-
-5. Web Sockets
-  * ... coming soon ...
+4. Zadania do samodzielnego wyboru
+  * laboratoria 4 - 10 zrealizowane w wybranej technologii;
+  * tematyka i materiał przesłane za pomocą Slack'a;
+  * oprócz działającego programu, należy na repozytorium przesłać krótkie podsumowanie danego laboratorium.
 
 
 Zasady zaliczenia przedmiotu
