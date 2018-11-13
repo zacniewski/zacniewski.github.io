@@ -47,7 +47,7 @@ Tematy zadań
 
 5. REST i RESTful API.
   * Dodać do serwisu funkcje CRUD (ang. create, read, update, delete);
-  * Wygenerować przykładowe odpowiedzi serwera (responses) w postacji JSON lub XML.
+  * Wygenerować przykładowe odpowiedzi serwera (responses) w postaci JSON lub XML.
   
 
 6. SQL.
