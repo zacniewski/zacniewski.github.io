@@ -32,6 +32,14 @@ Tematy zadań
   * tematyka i materiał przesłane za pomocą Slack'a;
   * oprócz działającego programu, należy na repozytorium przesłać krótkie podsumowanie danego laboratorium.
 
+5. Propozycje zagadnień:
+  * Kolejkowanie zadań za pomocą message brokera (np. RabbitMQ, Redis, Celery itp.)
+  * Asynchroniczność z async/await
+  * Przetwarzanie danych za pomocą Apache Hadoop
+  * Użycie Web Sockets
+  * Użycie architektury CUDA do obliczeń równoległych
+  * Implementacja protokołu JSON-RPC
+  * Porównanie implementacji synchronicznej i asynchronicznej wybranego problemu.
 
 Zasady zaliczenia przedmiotu
 ======
