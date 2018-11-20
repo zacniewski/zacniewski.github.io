@@ -33,6 +33,7 @@ Tematy zadań
   * oprócz działającego programu, należy na repozytorium przesłać krótkie podsumowanie danego laboratorium.
 
 5. Propozycje zagadnień:
+  * Zastosowanie wybranych mechanizmów synchronizacji wątków: lock, mutex, semaphore.
   * Kolejkowanie zadań za pomocą message brokera (np. RabbitMQ, Redis, Celery itp.)
   * Asynchroniczność z async/await
   * Przetwarzanie danych za pomocą Apache Hadoop
