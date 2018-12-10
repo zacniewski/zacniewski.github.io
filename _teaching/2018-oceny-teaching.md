@@ -68,7 +68,7 @@ Projektowanie serwisów WWW - grupa 165IC_B2
 |  L.p. | Nr indeksu      | Lab_1 | Lab_2 |Lab_3  | Lab_4  |Lab_5  | Lab_6  |Lab_7  | Lab_8  | Lab_9  | Lab_10  |	SUMA          		      	|ZALICZENIE |
 |:-----:| :-------------: |:-----:|:-----:|:-----:|:-----: |:-----:|:-----: |:-----:|:-----: |:-----: |:-----:  |	:-----:        		      	|:-----:    |
 |   1   |     20035       |   5   |   4   |   5   |   5    |   5   |   5    |   5   |  4,5   |  4,5   |   4     | <b style="color:green">47</b>       	| <b style="color:green"> 5</b> |
-|   2   |     20386       |   5   |   5   |   5   |   3    |   5   |   4    |   5   |   5    |   4    |   5     | <b style="color:green">46</b>  	| <b style="color:green"> 5</b	|
+|   2   |     20386       |   5   |   5   |   5   |   3    |   5   |   4    |   5   |   5    |   4    |   5     | <b style="color:green">46</b>  	| <b style="color:green"> 5</b>	|
 |   3   |     18813       |  3,5  |   3   |   1   |   1    |   1   |  -4    |  -2   |   0    |   0    |   0     |      3,5     	    	          	|     0     |
 |   4   |     20039       |   5   |   5   |   5   |   5    |   5   |   5    |   5   |   3,5  |  3,5   |   4     | <b style="color:green">46</b>      	| <b style="color:green"> 5</b> |
 |   5   |     20394       |   5   |   5   |   3   |   3    |   5   |   5    |  4,5  |   0    |   0    |   0     |      30,5       		     	|     0     |
