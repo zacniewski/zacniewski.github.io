@@ -7,6 +7,9 @@ venue: "AMW, WNiUO"
 date: 2018-10-01
 location: "Gdynia, Polska"
 ---
+
+
+
 Oceny zaliczeniowe:
 <p>Tabele zawierają punkty za laboratoria 1 - 10 oraz sumę punktów i ocenę na zaliczenie (lub za egzamin).</p>
 1. Oznaczenia 
