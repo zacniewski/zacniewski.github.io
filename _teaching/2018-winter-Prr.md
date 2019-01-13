@@ -30,7 +30,7 @@ Tematy zadań
   * Spróbowac uruchomić ww. program na kilku wątkach, przy czym każdy wątek wykonuje inne zadanie.
 
 4. Zadania do samodzielnego wyboru
-  * laboratoria 4 - 10 zrealizowane w wybranej technologii;
+  * laboratoria 4 - 8 zrealizowane w wybranej technologii;
   * tematyka i materiał przesłane za pomocą Slack'a;
   * oprócz działającego programu, należy na repozytorium przesłać krótkie podsumowanie danego laboratorium.
 
@@ -60,9 +60,9 @@ Punkty i oceny
 
 |    Liczba punktów    	| Ocena    |
 |    :-------------:	| :-----:  |
-|    45 - 50	        |     5    |
-|    39 - 44	        |    4,5   |
-|    34 - 38	        |     4    |
-|    29 - 33	        |    3,5   |
-|    25 - 28	        |     3    |
-|     0 - 24	        |     2    |
+|    35 - 40	        |     5    |
+|    29 - 34	        |    4,5   |
+|    24 - 28	        |     4    |
+|    19 - 23	        |    3,5   |
+|    15 - 18	        |     3    |
+|     0 - 14	        |     2    |
