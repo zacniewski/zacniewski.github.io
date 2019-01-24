@@ -38,7 +38,7 @@ Programowanie równoległe i rozproszone - grupa 155IC
 |  13   |     19386       |  3,5  |   2   |   4   |   4    |   4   |   4    |   4   |   4    |     29,5 / <b style="color:green">4,5</b>    	|     0     |
 |  14   |     18788       |   1   |   1   |   1   |  0,5   |   1   |  -4    |  -4   |  -4    |     -7,5 /      	|     0     |
 |  15   |     18816       |   5   |   4   |   3   |   3    |   2   |   2    |   2   |   1    | 	    22 / <b style="color:green">3,5</b>		|     0     |
-|  16   |     19383       | 3,5   |   2   |   2   |  -4    |  -4   |  -4    |  -4   |  -4    |      -12,5 /     |     0     |
+|  16   |     19383       | 3,5   |   2   |   2   |   1    |   2   |   2    |   2   |   1    |      15,5 / <b style="color:green">3</b>		|     0     |
 
 
 Projektowanie serwisów WWW - grupa 165IC_B1
