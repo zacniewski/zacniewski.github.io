@@ -10,14 +10,6 @@ location: "Gdynia, Polska"
 
 Zagadnienia i sposób zaliczenia:
 
-
-Tematy zadań
-======
-1. Zadania bazują głównie na projektach z książki "Android. Programowanie aplikacji. Rusz głową!".
-2. Do każdego zadania należy dodać plik (najlepiej pdf) zawierający zrzuty działającej aplikacji.
-Przyspieszy to proces sprawdzania. 
-3. Brak znajomości utworzonej aplikacji powoduje obniżenie oceny.
-
 Zasady zaliczenia przedmiotu
 ======
 
@@ -29,7 +21,13 @@ Zasady zaliczenia przedmiotu
 4. Zadanie należy zaprezentować osobiście prowadzącemu na laboratorium. 
 5. Pierwsze laboratorium jest "rozruchowe" - można oddawać zadania, ale nie trzeba.
 6. Brak odpowiedniej liczby punktów spowoduje konieczność stworzenia nowych projektów.
+7. Do każdego zadania należy dodać plik (najlepiej pdf) zawierający zrzuty działającej aplikacji.
+Przyspieszy to proces sprawdzania. 
+8. Brak znajomości utworzonej aplikacji powoduje obniżenie oceny.
 
+Tematy zadań
+======
+Zadania bazują głównie na projektach z książki "Android. Programowanie aplikacji. Rusz głową!".
 1. Kalkulator 
   * bazuje na rozdziale nr 2;
   * wybieramy dwie liczby (każda zapisana na sztywno w listie rozwijanej typu Spinner) i po kliknięciu przycisku otrzymujemy wynik;
