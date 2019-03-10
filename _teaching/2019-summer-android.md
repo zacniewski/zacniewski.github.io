@@ -40,11 +40,25 @@ Zadania bazują głównie na projektach z książki "Android. Programowanie apli
   * tworzymy trzy aktywności;
   * za pomocą intencji tworzymy przejścia z każdej aktywności do pozostałych;
   * analiza pliku manifestu wskazana!
-  * użycie metod putExtra() i getIntent() zalecane;
-  * użycie 'akcji' i filtrów intencji - do potestowania.
+  * użycie metod putExtra() i getIntent() konieczne do uzyskania wyższej oceny;
+  * użycie 'akcji' i filtrów intencji - do przetestowania.
 
 
-3. Coming soon ...
+3. Widoki i grupy widoków w różnych układach 
+  * bazuje na rozdziałach nr 5 i 6;
+  * należy utworzyć dwie aktywności - jedna z ConstraintLayout, druga z FrameLayout;
+  * dla ConstraintLayout należy zaprojektować <b> własny</b> oryginalny układ elementów,
+  * za pomocą intencji tworzymy przejścia z jednej aktywności do drugiej;
+  * należy wykorzystać w wybranych aktywnosciach elementy takie jak:
+        * przełącznik,
+        * checkbox,
+        * radio button,
+        * lista rzwijana,
+        * obrazek,
+        * obrazek wyświetlony na przycisku,
+        * widok przewijany,
+        * komunikaty typu (Toast)
+  * należy korzystać jak najwięcej z zasobów (np. łańcuchowych), gdzie powinny być umieszczone odpowiednie parametry layout'u.
 
 4. Coming soon ...
 
