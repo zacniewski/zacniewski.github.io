@@ -60,15 +60,20 @@ Zadania bazują głównie na projektach z książki "Android. Programowanie apli
         * komunikaty typu (Toast)
   * należy korzystać jak najwięcej z zasobów (np. łańcuchowych), gdzie powinny być umieszczone odpowiednie parametry layout'u.
 
-4. Coming soon ...
+4. Widoki list, adaptery, paski aplikacji ...
+  * bazuje na rozdziałach nr 7 i 8;
 
-5. Coming soon ...
+5. Fragmenty 
+  * bazuje na rozdziałach nr 9-11;
   
-6. Coming soon ...
+6. Baza danych SQLite 
+  * bazuje na rozdziałach nr 15 i 16;
 
-7. Coming soon ...
+7. Zadania asynchroniczne 
+  * bazuje na rozdziałach nr 17;
 
-8. Coming soon ...
+8. Usługi uruchomione i usługi lokalizacyjne 
+  * bazuje na rozdziałach nr 18 i 19;
 
 
 Punkty i oceny
