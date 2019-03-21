@@ -1,5 +1,5 @@
 --
-title: "Zaliczenia i oceny"
+title: "Zaliczenia i oceny 2019"
 collection: teaching
 type: "Ewaluacja"
 permalink: /teaching/zaliczenia-i-oceny-2019
