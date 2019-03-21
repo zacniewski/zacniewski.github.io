@@ -1,4 +1,4 @@
---
+---
 title: "Zaliczenia i oceny 2019"
 collection: teaching
 type: "Ewaluacja"

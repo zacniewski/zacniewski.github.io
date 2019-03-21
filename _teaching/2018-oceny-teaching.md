@@ -1,4 +1,4 @@
---
+---
 title: "Zaliczenia i oceny 2018"
 collection: teaching
 type: "Ewaluacja"
