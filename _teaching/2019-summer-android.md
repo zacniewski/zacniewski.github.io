@@ -62,12 +62,23 @@ Zadania bazują głównie na projektach z książki "Android. Programowanie apli
 
 4. Widoki list, adaptery, paski aplikacji ...
   * bazuje na rozdziałach nr 7 i 8;
+  * należy utworzyć aplikację co najmniej 3-poziomową (poziomy inne niż w ww. rozdziałach);
+  * aktywność główna zawiera widok listy i dowolny obrazek (np. logo);
+  * każda pozycja z listy po kliknięciu prowadzi do poziomu drugiego (aktywność kategorii), zawierającego kolejny widok listy;
+  * każda pozycja z listy po kliknięciu prowadzi do poziomu trzeciego (aktywność szczegółów), zawierającego informacje o danym elemencie (produkcie itp.);
+  * utwórz klasę przechowującą informacje o elementach list;
+  * dodaj pliki graficzne do zasobów;
+  * zaimplementuj obiekt nasłuchujący (reagowanie na kliknięcia widoku);
+  * użyj adaptera do pobrania danych statycznych
+  * dodaj pasek aplikacji i wybrany motyw;
+  * cdn.
 
 5. Fragmenty 
   * bazuje na rozdziałach nr 9-11;
   
 6. Baza danych SQLite 
   * bazuje na rozdziałach nr 15 i 16;
+  * można rozwinąć apkę z zadania nr 4, tak by dane pobierane były z bazy danych;
 
 7. Zadania asynchroniczne 
   * bazuje na rozdziałach nr 17;
