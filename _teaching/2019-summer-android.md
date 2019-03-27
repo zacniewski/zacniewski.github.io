@@ -76,6 +76,7 @@ Zadania bazują głównie na projektach z książki "Android. Programowanie apli
   * do paska narzędziowego dodaj przycisk, którego kliknięcie przeniesie nas do nowej aktywności InfoActivity;
   * aktywność InfoActivity powinna zawierać krótką informacje o aplikacji;
   * ww. pasek narzędzi należy dodać do każdej utworzonej aktywności;
+  * dla każdej aktywności dodaj w pliku manifest label, który będzie wyświetlany na pasku narzędziowym;
 
   * cdn.
 
