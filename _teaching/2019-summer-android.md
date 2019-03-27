@@ -45,7 +45,7 @@ Zadania bazują głównie na projektach z książki "Android. Programowanie apli
 
 
 3. Widoki i grupy widoków w różnych układach 
-  * bazuje na rozdziałach nr 5 i 6;
+  * bazuje na rozdziale nr 5 (5 i 6 w edycji nr 2);
   * należy utworzyć dwie aktywności - jedna z ConstraintLayout, druga z FrameLayout;
   * dla ConstraintLayout należy zaprojektować <b> własny</b> oryginalny układ elementów,
   * za pomocą intencji tworzymy przejścia z jednej aktywności do drugiej;
@@ -61,7 +61,7 @@ Zadania bazują głównie na projektach z książki "Android. Programowanie apli
   * należy korzystać jak najwięcej z zasobów (np. łańcuchowych), gdzie powinny być umieszczone odpowiednie parametry layout'u.
 
 4. Widoki list, adaptery, paski aplikacji ...
-  * bazuje na rozdziałach nr 7 i 8;
+  * bazuje na rozdziałach nr 6 i 9 (7 i 8 w edycji nr 2);
   * należy utworzyć aplikację co najmniej 3-poziomową (poziomy inne niż w ww. rozdziałach);
   * aktywność główna zawiera widok listy i dowolny obrazek (np. logo);
   * każda pozycja z listy po kliknięciu prowadzi do poziomu drugiego (aktywność kategorii), zawierającego kolejny widok listy;
