@@ -53,7 +53,7 @@ Zadania bazują głównie na projektach z książki "Android. Programowanie apli
         * przełącznik,
         * checkbox,
         * radio button,
-        * lista rzwijana,
+        * lista rozwijana,
         * obrazek,
         * obrazek wyświetlony na przycisku,
         * widok przewijany,
@@ -73,12 +73,15 @@ Zadania bazują głównie na projektach z książki "Android. Programowanie apli
   * usuń pasek aplikacji, dodaj pasek narzędzi i zmień wybrany motyw, pozmieniaj również odpowiednie kolory;
   * dla paska narzędzi utwórz osobny layout, w aktywności należy skorzystać z import android.support.v7.widget.Toolbar;
   * pamiętaj o metodzie setSupportActionBar();
-  * do paska narzędziowego dodaj przycisk, którego kliknięcie przeniesie nas do nowej aktywności InfoActivity;
   * aktywność InfoActivity powinna zawierać krótką informacje o aplikacji;
-  * ww. pasek narzędzi należy dodać do każdej utworzonej aktywności;
-  * dla każdej aktywności dodaj w pliku manifest label, który będzie wyświetlany na pasku narzędziowym;
+  * ww. pasek narzędzi należy dodać do każdej utworzonej aktywności (znacznik 'include' w plikach layoutu);
+  * dla każdej aktywności dodaj w pliku manifestu label, który będzie wyświetlany na pasku narzędziowym;
+  * dodaj akcję do paska narzędziowego (ikonka + tytuł akcji + plik zasobu menu);
+  * w głównej aktywności dodaj menu do paska aplikacji w metodzie onCreateOptionsMenu();
+  * w głównej aktywności dodaj reakcję na kliknięcia elementów akcji za pomocą metody onOptionsItemSelected();
+  * dla InfoActivity ustaw aktywność nadrzędną w pliku manifestu - wybierz aktywność główną;
+  * dla InfoActivity dodaj przycisk 'w górę' wykorzystując metody getSupportActionBar() i setDisplayHomeAsUpEnabled();
 
-  * cdn.
 
 5. Fragmenty 
   * bazuje na rozdziałach nr 9-11;
