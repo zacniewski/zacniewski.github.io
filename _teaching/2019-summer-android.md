@@ -69,8 +69,14 @@ Zadania bazują głównie na projektach z książki "Android. Programowanie apli
   * utwórz klasę przechowującą informacje o elementach list;
   * dodaj pliki graficzne do zasobów;
   * zaimplementuj obiekt nasłuchujący (reagowanie na kliknięcia widoku);
-  * użyj adaptera do pobrania danych statycznych
-  * dodaj pasek aplikacji i wybrany motyw;
+  * użyj adaptera do pobrania danych statycznych;
+  * usuń pasek aplikacji, dodaj pasek narzędzi i zmień wybrany motyw, pozmieniaj również odpowiednie kolory;
+  * dla paska narzędzi utwórz osobny layout, w aktywności należy skorzystać z import android.support.v7.widget.Toolbar;
+  * pamiętaj o metodzie setSupportActionBar();
+  * do paska narzędziowego dodaj przycisk, którego kliknięcie przeniesie nas do nowej aktywności InfoActivity;
+  * aktywność InfoActivity powinna zawierać krótką informacje o aplikacji;
+  * ww. pasek narzędzi należy dodać do każdej utworzonej aktywności;
+
   * cdn.
 
 5. Fragmenty 
