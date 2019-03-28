@@ -43,7 +43,7 @@ Aplikacje mobilne dla systemu Android - grupa 165IC_B1
 |  17   |     20428       |  0    |  0    |  0    |  0     |  0    |  0     |  0    |  0     |       0       |		0	|
 |  18   |     20615       |  0    |  0    |  0    |  0     |  0    |  0     |  0    |  0     |       0       |		0	|
 
-Projektowanie serwisów WWW - grupa 165IC_B2
+Aplikacje mobilne dla systemu AndroidW - grupa 165IC_B2
 ======
 
 |  L.p. | Nr indeksu      | Lab_1 | Lab_2 |Lab_3  | Lab_4  |Lab_5  | Lab_6  |Lab_7  | Lab_8  |      SUMA     |	  ZALICZENIE    |
