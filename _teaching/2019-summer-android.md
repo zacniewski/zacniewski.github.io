@@ -72,11 +72,12 @@ Zadania bazują głównie na projektach z książki "Android. Programowanie apli
   * użyj adaptera do pobrania danych statycznych;
   * usuń pasek aplikacji, dodaj pasek narzędzi i zmień wybrany motyw, pozmieniaj również odpowiednie kolory;
   * dla paska narzędzi utwórz osobny layout, w aktywności należy skorzystać z import android.support.v7.widget.Toolbar;
-  * pamiętaj o metodzie setSupportActionBar();
-  * aktywność InfoActivity powinna zawierać krótką informacje o aplikacji;
   * ww. pasek narzędzi należy dodać do każdej utworzonej aktywności (znacznik 'include' w plikach layoutu);
+  * pamiętaj o metodzie setSupportActionBar();
+  *
+  * utwórz aktywność InfoActivity, która powinna zawierać krótką informacje o aplikacji;
   * dla każdej aktywności dodaj w pliku manifestu label, który będzie wyświetlany na pasku narzędziowym;
-  * dodaj akcję do paska narzędziowego (ikonka + tytuł akcji + plik zasobu menu);
+  * w głównej aktywności dodaj akcję do paska narzędziowego (ikonka + tytuł akcji + plik zasobu menu);
   * w głównej aktywności dodaj menu do paska aplikacji w metodzie onCreateOptionsMenu();
   * w głównej aktywności dodaj reakcję na kliknięcia elementów akcji za pomocą metody onOptionsItemSelected();
   * dla InfoActivity ustaw aktywność nadrzędną w pliku manifestu - wybierz aktywność główną;
