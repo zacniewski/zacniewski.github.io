@@ -83,19 +83,29 @@ Zadania bazują głównie na projektach z książki "Android. Programowanie apli
   * dla InfoActivity ustaw aktywność nadrzędną w pliku manifestu - wybierz aktywność główną;
   * dla InfoActivity dodaj przycisk 'w górę' wykorzystując metody getSupportActionBar() i setDisplayHomeAsUpEnabled();
 
-
 5. Fragmenty 
-  * bazuje na rozdziałach nr 9-11;
+  * bazuje na rozdziałach nr 7-8 (9-11 w drugiej edycji);
+  * aplikacja powinna dotyczyć programowania (o ile ktoś nie kontynuuje apek z poprzednich laborek),
+  * utwórz aktywność, która będzie korzystać z z co najmniej dwóch fragmentów,
+  * pamiętaj o layoutach fragmentu, klasie Fragment,  metodzie onCreateView() w plikach .java,
+  * fragmenty mogą pobierać dane z pliku *.java lub z bazy danych,
+  * pamiętaj o obiekcie klasy LayoutInflater - przygotowanie układu (ang. inflate) oznacza przekształcenie widoków określonych w kodzie XML układu na obiekty Javy,
+  * skorzystaj z menedżera fragmentów, np. getFragmentManager(), w celu pobrania referencji do fragmentu,
+  * wykorzystaj interfejs do komunkacji aktywności z fragmentem,
+  * wykorzystaj transakcję fragmentu;
+  * utwórz fragment zagnieżdżony w innym fragmencie,
+  * pamiętaj o zagnieżdżonych transakcjach,
+  * wykorzystaj interfejs OnClickListener do obsługi kliknięć. 
   
 6. Baza danych SQLite 
-  * bazuje na rozdziałach nr 15 i 16;
-  * można rozwinąć apkę z zadania nr 4, tak by dane pobierane były z bazy danych;
+  * bazuje na rozdziale nr 11 (15 i 16 w drugiej edycji);
+  * można rozwinąć apki z innych zadań, tak by dane pobierane były z bazy danych zamiast z plików;
 
-7. Zadania asynchroniczne 
-  * bazuje na rozdziałach nr 17;
+7. Kursory i zadania asynchroniczne 
+  * bazuje na rozdziale nr 12 (17 w drugiej edycji);
 
 8. Usługi uruchomione i usługi lokalizacyjne 
-  * bazuje na rozdziałach nr 18 i 19;
+  * bazuje na rozdziale nr 13 (nr 18 i 19 w drugiej edycji);
 
 
 Punkty i oceny
