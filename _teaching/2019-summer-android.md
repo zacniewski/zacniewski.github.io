@@ -118,23 +118,23 @@ Zadania bazują głównie na projektach z książki "Android. Programowanie apli
 8. Usługi uruchomione i usługi powiązane 
   * bazuje na rozdziale nr 13 (nr 18 i 19 w drugiej edycji);
   * part I:
-  * utwórz usługę uruchomioną korzystając z klasy IntentService, do innego celu niż w książce;
-  * usługa powinna być uruchamiana po kliknięciu przycisku w aktywności,
-  * pamiętaj o metodach onHandleIntent() i startService(),
-  * Użyj usługi np. do wyświetlenia wybranego tekstu najpierw w dzienniku zdarzeń, a w drugim kroku jako powiadomienie lub do wybranego przez siebie zadania;
-  * skorzystaj z obiektu typu NotificationManager.  
-  * part II:  
-  * utwórz usługę powiązaną, służącą do pomiaru odległości,
-  * wykorzystaj systemową usługę lokalizacyjną,
-  * utwórz aktywność, która będzie komunikować się z ww. usługą,
-  * wykorystaj obiekt typu Binder do powiązania aktywności z usługą. Usługa powiązana tworzy obiekt Binder, zawiera on zawiera referencję do usługi powiązanej.
-  * wykorzystaj obiekt typu ServiceConnection. Aktywność tworzy obiekt ServiceConnection, służy on do utworzenia połączenia z usługą.
+        * utwórz usługę uruchomioną korzystając z klasy IntentService, do innego celu niż w książce;
+        * usługa powinna być uruchamiana po kliknięciu przycisku w aktywności,
+        * pamiętaj o metodach onHandleIntent() i startService(),
+        * Użyj usługi np. do wyświetlenia wybranego tekstu najpierw w dzienniku zdarzeń, a w drugim kroku jako powiadomienie lub do wybranego przez siebie zadania;
+        * skorzystaj z obiektu typu NotificationManager.
+  * part II:
+        * utwórz usługę powiązaną, służącą do pomiaru odległości,
+        * wykorzystaj systemową usługę lokalizacyjną,
+        * utwórz aktywność, która będzie komunikować się z ww. usługą,
+        * wykorystaj obiekt typu Binder do powiązania aktywności z usługą. Usługa powiązana tworzy obiekt Binder, zawiera on zawiera referencję do usługi powiązanej.
+        * wykorzystaj obiekt typu ServiceConnection. Aktywność tworzy obiekt ServiceConnection, służy on do utworzenia połączenia z usługą.
 
-  * zaimplementuj interfejs LocationListener i zarejestruj obiekt tego typu w systemowej usłudze lokalizacyjnej,
-  * w momencie tworzenia usługi należy przygotować obiekt nasłuchujący, który będzie odbierać informacje o zmianach lokalizacji urządzenia
-  * utwórz metodę do pomiaru odległości korzystając z metody onLocationChanged(Location() obiektu typu LocationListener,
-  * pamiętaj o metodzie bindService(), aby powiązać aktywność z usługą,
-  * pamiętaj o modyfikacji pliku manifestu, w celu uzyskania uprawnień do korzystania z odbiornika GPS,
+        * zaimplementuj interfejs LocationListener i zarejestruj obiekt tego typu w systemowej usłudze lokalizacyjnej,
+        * w momencie tworzenia usługi należy przygotować obiekt nasłuchujący, który będzie odbierać informacje o zmianach lokalizacji urządzenia
+        * utwórz metodę do pomiaru odległości korzystając z metody onLocationChanged(Location() obiektu typu LocationListener,
+        * pamiętaj o metodzie bindService(), aby powiązać aktywność z usługą,
+        * pamiętaj o modyfikacji pliku manifestu, w celu uzyskania uprawnień do korzystania z odbiornika GPS,
 
 
 
