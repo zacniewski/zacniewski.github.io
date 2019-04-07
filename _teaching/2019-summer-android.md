@@ -97,12 +97,23 @@ Zadania bazują głównie na projektach z książki "Android. Programowanie apli
   * pamiętaj o zagnieżdżonych transakcjach,
   * wykorzystaj interfejs OnClickListener do obsługi kliknięć. 
   
-6. Baza danych SQLite 
-  * bazuje na rozdziale nr 11 (15 i 16 w drugiej edycji);
-  * można rozwinąć apki z innych zadań, tak by dane pobierane były z bazy danych zamiast z plików;
+6. Baza danych SQLite i kursory
+  * bazuje na rozdziale nr 11 i 12 (15 i 16 w drugiej edycji);
+  * należy rozwinąć lub zmodyfikować apki z innych zadań, tak by dane pobierane były z bazy danych zamiast z plików;
+  * należy utworzyć bazę danych SQLite do przechowywania ww. danych;
+  * skorzystaj z klasy SQLiteOpenHelper() do tworzenia i utrzymania ww. bazy,
+  * pamiętaj o metodach onCreate() i onUpgrade(), ewentualnie onDowngrade(),
+  * skorzystaj z obiektu typu Cursor() i metody query() do tworzenia zapytań,
+  * wykorzystaj co najmniej dwa różne zapytania w aplikacji,
+  * skorzystaj z wybranych metod poruszania się po kursorze:  moveToFirst(), moveToLast(), moveToPrevious(), moveToNext().
 
-7. Kursory i zadania asynchroniczne 
+7. Zadania asynchroniczne 
   * bazuje na rozdziale nr 12 (17 w drugiej edycji);
+  * przeanalizuj rodzaje wątków w aplikacjach na Androida,
+  * wykorzystaj klasę AsyncTask do obsługi kodu, korzystającego z bazy danych, umieszczając go w osobnym wątku,
+  * zaimplementuj metody onPreExecute(), doInBackground(), onPostExecute() oraz onProgressUpdate(),
+  * pamiętaj o parametrach Params, Progress oraz Results klasy AsyncTask,
+  * spróbuj oszacować różnicę czasów dla apki bez klasy AsyncTask i z użyciem tej klasy klasą. Skorzystaj np. z klasy <a href="https://developer.android.com/reference/android/util/TimingLogger"> TimingLogger</a>
 
 8. Usługi uruchomione i usługi lokalizacyjne 
   * bazuje na rozdziale nr 13 (nr 18 i 19 w drugiej edycji);
