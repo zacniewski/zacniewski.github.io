@@ -17,9 +17,9 @@ Oceny zaliczeniowe: <a href="https://docs.google.com/spreadsheets/d/1q18Zv51akzA
   <!--* '+' oznacza przesłanie (lub pokazanie) pracy w terminie, ale nie odbyła się rozmowa "na żywo" (lub brak przesłanego linku do repo),-->
   * '-2' lub '-4' oznacza opóźnienie w zaliczeniu laboratorium mniejsze od tygodnia (-2 punkty) lub dwóch (-4punkty),
   * kolory z tabeli opisane w legendzie.
-  <!--
 
 
+<!--
 
 Aplikacje mobilne dla systemu Android - grupa 165IC_B1
 ======
