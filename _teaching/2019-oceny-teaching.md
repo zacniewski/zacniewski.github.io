@@ -10,13 +10,14 @@ location: "Gdynia, Polska"
 
 
 
-Oceny zaliczeniowe:
+Oceny zaliczeniowe: <a href="https://docs.google.com/spreadsheets/d/1q18Zv51akzAvTbD0kPMY44FSwlEJcpEPQFwgWs8K9FY/edit?usp=sharing" target="_blank"> tutaj</a>.
 <p>Tabele zawierają punkty za laboratoria oraz sumę punktów i ocenę na zaliczenie (lub za egzamin).</p>
 1. Oznaczenia 
   * Liczba 0-5 oznacza punkty za dane laboratorium,
-  * '+' oznacza przesłanie (lub pokazanie) pracy w terminie, ale nie odbyła się rozmowa "na żywo" (lub brak przesłanego linku do repo),
+  <!--* '+' oznacza przesłanie (lub pokazanie) pracy w terminie, ale nie odbyła się rozmowa "na żywo" (lub brak przesłanego linku do repo),-->
   * '-2' lub '-4' oznacza opóźnienie w zaliczeniu laboratorium mniejsze od tygodnia (-2 punkty) lub dwóch (-4punkty),
-  * '(-)' oznacza brak przesłanego linku do repo.
+  * kolory z tabeli opisane w legendzie.
+  <!--* '(-)' oznacza brak przesłanego linku do repo.
 
 
 Aplikacje mobilne dla systemu Android - grupa 165IC_B1
@@ -65,6 +66,7 @@ Aplikacje mobilne dla systemu Android - grupa 165IC_B2
 |  15   |     20423       |  5    |  5    |  0    |  0     |  0    |  0     |  0    |  0     |      10       |		0	|
 |  16   |     20425       |  -2   |  0    |  0    |  0     |  0    |  0     |  0    |  0     |       0       |		0	|
 |  17   |     20433       |  5    |  5    |  5    |  +     |  0    |  0     |  0    |  0     |      15       |		0	|
+-->
 
 
 
