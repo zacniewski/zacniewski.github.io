@@ -10,7 +10,7 @@ location: "Gdynia, Polska"
 
 
 
-Oceny zaliczeniowe: <a href="https://docs.google.com/spreadsheets/d/1q18Zv51akzAvTbD0kPMY44FSwlEJcpEPQFwgWs8K9FY/edit?usp=sharing" target="_blank" style="color:green;"> tutaj</a>.
+Oceny zaliczeniowe: <a href="https://docs.google.com/spreadsheets/d/1q18Zv51akzAvTbD0kPMY44FSwlEJcpEPQFwgWs8K9FY/edit?usp=sharing" target="_blank" style="color:blue;"> tutaj</a>.
 <p>Tabele zawierają punkty za laboratoria oraz sumę punktów i ocenę na zaliczenie (lub za egzamin).</p>
 1. Oznaczenia 
   * Liczba 0-5 oznacza punkty za dane laboratorium,
