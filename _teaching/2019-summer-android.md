@@ -136,7 +136,12 @@ Zadania bazują głównie na projektach z książki "Android. Programowanie apli
         * pamiętaj o metodzie bindService(), aby powiązać aktywność z usługą,
         * pamiętaj o modyfikacji pliku manifestu, w celu uzyskania uprawnień do korzystania z odbiornika GPS,
 
-
+9. Zadania dodatkowe - dla osób, które mają zbyt mało punktów do zaliczenia
+  * latarka,
+  * wykorzystanie akcelerometra,
+  * kalkulator liczący pierwiastki i funkcje trygonometryczne,
+  * aplikacja typu To-Do.
+Zasady zaliczania ww. aplikacji podobne jak w przypadku aplikacji 1-8.
 
 Punkty i oceny
 ======
