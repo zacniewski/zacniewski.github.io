@@ -140,7 +140,7 @@ Zadania bazują głównie na projektach z książki "Android. Programowanie apli
   * latarka,
   * wykorzystanie akcelerometra,
   * kalkulator liczący pierwiastki i funkcje trygonometryczne,
-  * aplikacja typu To-Do.
+  * aplikacja typu To-Do.  
 Zasady zaliczania ww. aplikacji podobne jak w przypadku aplikacji 1-8.
 
 Punkty i oceny
