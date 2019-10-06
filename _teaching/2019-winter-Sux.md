@@ -54,8 +54,8 @@ Zasady zaliczenia przedmiotu
 
 1. Dowolny język do realizacji zadania. Aczkolwiek zalecany Python i jego biblioteki, takie jak Numpy, Scipy, Matplotlib, pandas itp.
 2. Zadanie należy zrealizować do następnych zajęć - max. 5 punktów,
-  * Tydzień opóźnienia w realizacji zadania - max. 3 punkty,
-  * Przekroczenie obu terminów - max. 1 punkt.
+  * Opóźnienie skutkuje wykonaniem części rozszerzonej danego zadania, która będzie określona przez prowadzącego,
+  * Część rozszerzona będzie trudniejsza niż podstawowa i będzie inna dla każdego "spóźnialskiego".
 3. Zrealizowane zadanie należy umieścić na portalu GitHub (lub BitBucket) i wysłać link do repozytorium do prowadzącego (Slack).
 4. Należy wykonać zrzuty ekranu z wynikami i również umieścić je w repozytorium.
 5. Zadanie należy zaprezentować osobiście prowadzącemu (najlepiej na bieżących lub kolejnych zajęciach). 
