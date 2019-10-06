@@ -53,6 +53,7 @@ Zasady zaliczenia przedmiotu
 ======
 
 1. Dowolny język do realizacji zadania. Aczkolwiek zalecany Python i jego biblioteki, takie jak Numpy, Scipy, Matplotlib, pandas itp.
+  * idealny byłby Jupyter Notebook - <a href="https://www.dataquest.io/blog/jupyter-notebook-tutorial/">szybkie intro</a>
 2. Zadanie należy zrealizować do następnych zajęć - max. 5 punktów,
   * Opóźnienie skutkuje wykonaniem części rozszerzonej danego zadania, która będzie określona przez prowadzącego,
   * Część rozszerzona będzie trudniejsza niż podstawowa i będzie inna dla każdego "spóźnialskiego".
