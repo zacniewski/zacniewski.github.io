@@ -35,7 +35,7 @@ Tematy zadań
         * znajdź największą liczbę tej macierzy,
   * utwórz macierz o wymiarach różnych od siebie i większych od 1, zawierającą losowe liczby z przedziału (0, 100) i dokonaj jej transpozycji,
   * utwórz dwie macierze o odpowiednich wymiarach (doczytać), większych od 2 i dodaj je do siebie,
-  * utwórz dwie macierze o odpowiednich wymiarach (doczytać), większych od 2 i pomnóż je przez siebie,
+  * utwórz dwie macierze o odpowiednich wymiarach (doczytać) różńych od siebie, większych od 2 i pomnóż je przez siebie,
   * ściąga do pakietu Numpy - <a href="https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Numpy_Python_Cheat_Sheet.pdf" target="_blank">link</a>
 
 2. Coming soon ...

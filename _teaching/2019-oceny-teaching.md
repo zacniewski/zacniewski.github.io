@@ -10,13 +10,14 @@ location: "Gdynia, Polska"
 
 
 
-Oceny zaliczeniowe: <a href="https://docs.google.com/spreadsheets/d/1q18Zv51akzAvTbD0kPMY44FSwlEJcpEPQFwgWs8K9FY/edit?usp=sharing" target="_blank" style="color:blue;"> tutaj</a>.
-<p>Tabele zawierają punkty za laboratoria oraz sumę punktów i ocenę na zaliczenie (lub za egzamin).</p>
-1. Oznaczenia 
+Oceny zaliczeniowe - Android (165IC): <a href="https://docs.google.com/spreadsheets/d/1q18Zv51akzAvTbD0kPMY44FSwlEJcpEPQFwgWs8K9FY/edit?usp=sharing" target="_blank" style="color:blue;"> tutaj</a>.
+Oceny zaliczeniowe - Data Science (165IC): <a href="https://docs.google.com/spreadsheets/d/1D-BSg3D5i02HLtd3cW69dfdCfTMp0_CT_XyOCDbVz2s/edit?usp=sharing" target="_blank" style="color:blue;"> tutaj</a>.
+<!--<p>Tabele zawierają punkty za laboratoria oraz sumę punktów i ocenę na zaliczenie (lub za egzamin).</p>
+ 1. Oznaczenia 
   * Liczba 0-5 oznacza punkty za dane laboratorium,
-  <!--* '+' oznacza przesłanie (lub pokazanie) pracy w terminie, ale nie odbyła się rozmowa "na żywo" (lub brak przesłanego linku do repo),-->
+ * '+' oznacza przesłanie (lub pokazanie) pracy w terminie, ale nie odbyła się rozmowa "na żywo" (lub brak przesłanego linku do repo),
   * '-2' lub '-4' oznacza opóźnienie w zaliczeniu laboratorium mniejsze od tygodnia (-2 punkty) lub dwóch (-4punkty),
-  * kolory z tabeli opisane w legendzie.
+  * kolory z tabeli opisane w legendzie.-->
 
 
 <!--
