@@ -2,7 +2,7 @@
 title: "Wstęp do Data Science"
 collection: teaching
 type: "Wykłady i laboratoria"
-permalink: /teaching/2019-data-sience-intro
+permalink: /teaching/2019-data-science-intro
 venue: "AMW, WEM"
 date: 2019-10-01
 location: "Gdynia, Polska"
