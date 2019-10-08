@@ -28,11 +28,11 @@ Tematy zadań
         * oblicz sumę wszystkich liczb w ww. macierzy,
         * oblicz średnią wszystkich liczb w ww. macierzy,
         * oblicz standardową dewiację dla liczb w ww. macierzy,
-        * oblicz sumę każdej kolumny ww. macierzy i zapisz ją do tablicy,
+        * oblicz sumę każdej kolumny ww. macierzy i zapisz ją do tablicy.
   * utwórz macierz o wymiarach 5x5 zawierającą losowe liczby z przedziału (0, 100) i:
         * oblicz medianę tych liczb,
         * znajdź najmniejszą liczbę tej macierzy,
-        * znajdź największą liczbę tej macierzy,
+        * znajdź największą liczbę tej macierzy.
   * utwórz macierz o wymiarach różnych od siebie i większych od 1, zawierającą losowe liczby z przedziału (0, 100) i dokonaj jej transpozycji,
   * utwórz dwie macierze o odpowiednich wymiarach (doczytać), większych od 2 i dodaj je do siebie,
   * utwórz dwie macierze o odpowiednich wymiarach (doczytać) różnych od siebie i większych od 2, a następnie pomnóż je przez siebie za pomocą dwóch różnych funkcji (np. 'matmul' i 'multiply'),

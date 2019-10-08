@@ -15,14 +15,12 @@ Zagadnienia i sposób zaliczenia:
 Tematy zadań
 ======
 
-1a. Praca z systemem kontroli wersji. Podstawy WWW.
+1. Praca z systemem kontroli wersji. Podstawy WWW.
   * cel - stworzyć prostą stronę WWW, nie wymagającą użycia serwera webowego;
   * należy użyć HTML, CSS i JS do ww. zadania;
   * książka online o systemie Git: <a href="https://git-scm.com/book/pl/v2" target="_blank">tutaj</a>; 
   * pomoc dla osób, które zaczynają przygodę z systemem kontroli wersji Git: <a href="https://www.flynerd.pl/2018/02/github-dla-zielonych-pierwsze-repozytorium.html" target="_blank">tutaj</a>;
   * należy utworzyć konto na hostingu GitHub lub innym (np. Bitbucket), aby "przechowywać" tam zrealizowane laboratoria.
-
-1b. Podstawy WWW - kontynuacja. Model DOM.
   * pomoc do dalszej części zadań związanych z WWW: <a href="http://niezbednik-nauczyciela.pl/publikacje/r2019/html97/k_0_0_0.php" target="_blank">tutaj</a>;
   * dla początkujących w dziedzinie WWW wskazane jest przejrzenie materiałów z ww. linka, żadnych ćwiczeń z tamtej strony nie wykonujemy;
   * należy stworzyć prosty szablon strony HTML i zapisać go pod nazwą index.html;
