@@ -41,8 +41,7 @@ Tematy zadań
         * <a href="https://jakubjurkian.pl/kurs-javascript-tablice-obiekty-komentarze/" target="_blank">Kurs JS part 2</a>,
         * <a href="https://jakubjurkian.pl/kurs-javascript-drzewo-dom-wybieranie-elementow/" target="_blank">Kurs JS part 3</a>,
         * <a href="https://www.w3schools.com/js/js_intro.asp" target="_blank">Wstęp do JS na W3 Schools</a>.
-  * zapoznać się z przykładowym modelem DOM (p. 2c) oraz  
-    i <a href="https://jakubjurkian.pl/kurs-javascript-drzewo-dom-wybieranie-elementow/" target="_blank">link2</a>
+  * zapoznać się z przykładowym modelem DOM (p. 2c)</a>
   * Stworzyć nowe elementy (np. za pomocą metod createElement i appendChild) oraz dodać do nich style (metoda 'style') i klasy (metoda 'add').
   * stworzone pliki należy umieścić w repozytorium zdalnym, a link do niego należy wysłać do prowadzącego zajęcia.
 
