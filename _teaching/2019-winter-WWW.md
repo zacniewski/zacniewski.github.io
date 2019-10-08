@@ -24,7 +24,7 @@ Tematy zadań
 
 1b. Podstawy WWW - kontynuacja. Model DOM.
   * pomoc do dalszej części zadań związanych z WWW: <a href="http://niezbednik-nauczyciela.pl/publikacje/r2019/html97/k_0_0_0.php" target="_blank">tutaj</a>;
-  * dla początkujących w dziedzinie WWW wskazane jest przejrzenie materiałów z ww. linka, żadnych ćwiczeń nie wykonujemy;
+  * dla początkujących w dziedzinie WWW wskazane jest przejrzenie materiałów z ww. linka, żadnych ćwiczeń z tamtej strony nie wykonujemy;
   * należy stworzyć prosty szablon strony HTML i zapisać go pod nazwą index.html;
   * zastosować na stronie znaczniki odpowiadające za układ strony - section, article, aside, header, footer, nav, np. <a href="http://how2html.pl/div-sekcje-html5/" target="_blank">stąd</a>;
   * stworzyć plik drugi.html, który będzie wykorzystywany do adresowania względnego. Plik powinien zawierać podstawowy układ strony HTML (podobnie jak dla pliku index.html);
@@ -36,7 +36,7 @@ Tematy zadań
   * przejrzeć p. 4b i zastosować wybrane przez siebie właściwości CSS.
   * zastosować pseudoklasy do linków (p.4a).
   * zastosować formy i układy selektorów (p.4a).
-  * zapoznać się z podstawami Java Script, np.: 
+  * zapoznać się z podstawami Java Script, np.:  
         * <a href="https://jakubjurkian.pl/kurs-javascript-brackets-debugowanie-zmienne-operatory/" target="_blank">Kurs JS part 1</a>,
         * <a href="https://jakubjurkian.pl/kurs-javascript-tablice-obiekty-komentarze/" target="_blank">Kurs JS part 2</a>,
         * <a href="https://jakubjurkian.pl/kurs-javascript-drzewo-dom-wybieranie-elementow/" target="_blank">Kurs JS part 3</a>,
