@@ -36,10 +36,10 @@ Tematy zadań
   * zastosować pseudoklasy do linków (p.4a).
   * zastosować formy i układy selektorów (p.4a).
   * zapoznać się z podstawami Java Script, np.:
-        * <a href="https://jakubjurkian.pl/kurs-javascript-brackets-debugowanie-zmienne-operatory/" target="_blank">Kurs JS part 1</a>,
-        * <a href="https://jakubjurkian.pl/kurs-javascript-tablice-obiekty-komentarze/" target="_blank">Kurs JS part 2</a>,
-        * <a href="https://jakubjurkian.pl/kurs-javascript-drzewo-dom-wybieranie-elementow/" target="_blank">Kurs JS part 3</a>,
-        * <a href="https://www.w3schools.com/js/js_intro.asp" target="_blank">Wstęp do JS na W3 Schools</a>.
+        * Kurs JS <a href="https://jakubjurkian.pl/kurs-javascript-brackets-debugowanie-zmienne-operatory/" target="_blank"> part 1</a>,
+        * Kurs JS <a href="https://jakubjurkian.pl/kurs-javascript-tablice-obiekty-komentarze/" target="_blank"> part 2</a>,
+        * Kurs JS <a href="https://jakubjurkian.pl/kurs-javascript-drzewo-dom-wybieranie-elementow/" target="_blank"> part 3</a>,
+        * Wstęp do JS na <a href="https://www.w3schools.com/js/js_intro.asp" target="_blank"> W3 Schools</a>.
   * zapoznać się z przykładowym modelem DOM (p. 2c)</a>
   * Stworzyć nowe elementy (np. za pomocą metod createElement i appendChild) oraz dodać do nich style (metoda 'style') i klasy (metoda 'add').
   * stworzone pliki należy umieścić w repozytorium zdalnym, a link do niego należy wysłać do prowadzącego zajęcia.
