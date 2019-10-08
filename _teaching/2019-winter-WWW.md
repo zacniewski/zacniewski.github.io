@@ -28,7 +28,6 @@ Tematy zadań
   * należy stworzyć prosty szablon strony HTML i zapisać go pod nazwą index.html;
   * zastosować na stronie znaczniki odpowiadające za układ strony - section, article, aside, header, footer, nav, np. <a href="http://how2html.pl/div-sekcje-html5/" target="_blank">stąd</a>;
   * stworzyć plik drugi.html, który będzie wykorzystywany do adresowania względnego. Plik powinien zawierać podstawowy układ strony HTML (podobnie jak dla pliku index.html);
-
   * stworzyć link (adres względny - p. 3d) na stronie index.html do strony drugi.html i tam należy umieszczać kolejne części zadania.
   * użyć elementów blokowych (p. 3a), elementów wstawionych (p. 3b) i elementów osadzonych (p. 3c) 
   * stworzyć przykładową tabelę (p. 3e) o dowolnej tematyce. 
@@ -36,7 +35,7 @@ Tematy zadań
   * przejrzeć p. 4b i zastosować wybrane przez siebie właściwości CSS.
   * zastosować pseudoklasy do linków (p.4a).
   * zastosować formy i układy selektorów (p.4a).
-  * zapoznać się z podstawami Java Script, np.:  
+  * zapoznać się z podstawami Java Script, np.:
         * <a href="https://jakubjurkian.pl/kurs-javascript-brackets-debugowanie-zmienne-operatory/" target="_blank">Kurs JS part 1</a>,
         * <a href="https://jakubjurkian.pl/kurs-javascript-tablice-obiekty-komentarze/" target="_blank">Kurs JS part 2</a>,
         * <a href="https://jakubjurkian.pl/kurs-javascript-drzewo-dom-wybieranie-elementow/" target="_blank">Kurs JS part 3</a>,
@@ -45,25 +44,15 @@ Tematy zadań
   * Stworzyć nowe elementy (np. za pomocą metod createElement i appendChild) oraz dodać do nich style (metoda 'style') i klasy (metoda 'add').
   * stworzone pliki należy umieścić w repozytorium zdalnym, a link do niego należy wysłać do prowadzącego zajęcia.
 
-2. Coming soon  
-
-3. Coming soon  
-
-4. Coming soon  
-
-5. Coming soon  
-  
-
-6. Coming soon  
-
-
-7. Coming soon  
-
-8. Coming soon  
- 
-9. Coming soon  
-
-10. Coming soon  
+2. Coming soon ...
+3. Coming soon ...
+4. Coming soon ...
+5. Coming soon ...
+6. Coming soon ...
+7. Coming soon ...
+8. Coming soon ...
+9. Coming soon ...
+10. Coming soon ...
 
 Zasady zaliczenia przedmiotu
 ======
