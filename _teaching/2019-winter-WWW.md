@@ -16,10 +16,10 @@ Tematy zadań
 ======
 
 1a. Praca z systemem kontroli wersji. Podstawy WWW.
-  * cel - stworzyć prostą stronę WWW (link ze Slacka), nie wymagającą użycia serwera webowego;
+  * cel - stworzyć prostą stronę WWW, nie wymagającą użycia serwera webowego;
   * należy użyć HTML, CSS i JS do ww. zadania;
   * książka online o systemie Git: <a href="https://git-scm.com/book/pl/v2" target="_blank">tutaj</a>; 
-  * pomoc dla osób, które zaczynają przygodę z systemem kontroli wersji Git: <a href="https://www.flynerd.pl/2018/02/github-dla-zielonych-pierwsze-repozytorium.html target="_blank"">tutaj</a>;
+  * pomoc dla osób, które zaczynają przygodę z systemem kontroli wersji Git: <a href="https://www.flynerd.pl/2018/02/github-dla-zielonych-pierwsze-repozytorium.html" target="_blank">tutaj</a>;
   * należy utworzyć konto na hostingu GitHub lub innym (np. Bitbucket), aby "przechowywać" tam zrealizowane laboratoria.
 
 1b. Podstawy WWW - kontynuacja. Model DOM.
