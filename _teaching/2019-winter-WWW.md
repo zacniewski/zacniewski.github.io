@@ -4,7 +4,7 @@ collection: teaching
 type: "Wykłady i laboratoria"
 permalink: /teaching/2019-serwisy-WWW
 venue: "AMW, WEM"
-date: 2019-10-01
+date: 2019-10-10
 location: "Gdynia, Polska"
 ---
 

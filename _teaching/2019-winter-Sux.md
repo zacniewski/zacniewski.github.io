@@ -4,7 +4,7 @@ collection: teaching
 type: "Wykłady i laboratoria"
 permalink: /teaching/2019-data-science-intro
 venue: "AMW, WEM"
-date: 2019-10-01
+date: 2019-10-06
 location: "Gdynia, Polska"
 ---
 
