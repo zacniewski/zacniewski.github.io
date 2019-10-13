@@ -46,7 +46,7 @@ Tematy zadań
   * Roboczy plik tekstowy 'samochody1tys.csv', zawierający dane z 1000 ogłoszeń motoryzacyjnych, dostępny jest na Slacku. Dane składają się z 1000 rekordów. Każdy rekord dotyczy jednego ogłoszenia motoryzacyjnego i zawiera następujące informacje: identyfikator ogłoszenia, marka samochodu, model samochodu, rok produkcji, rodzaj silnika, pojemność silnika, przebieg samochodu, cena, województwo.
   * Należy przerobić krótki wstęp do Pandas (link powyżej) i tam gdzie się da należy użyć danych z pliku roboczego,
   * do wczytania danych korzystamy z funkcji ```read_csv```, 
-  * przed każdą operacją (zbiorem operacji) konieczna jest linia z komentarzem po polsku,
+  * przed każdą operacją (zbiorem operacji) konieczna jest linia z komentarzem po polsku, a w niej opis co zamierzamy zrobić,
   * wyniki zapisujemy w pliku .ipynb.
 
 3. Coming soon ...
