@@ -43,8 +43,8 @@ Tematy zadań
   * oficjalna ściąga - <a href="https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf" target="_blank">tutaj</a>,
   * krótki wstęp do Pandas - <a href="https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html" target="_blank">tutaj</a>,
   * podstawowe struktury danych w Pandas - <a href="https://pandas.pydata.org/pandas-docs/stable/getting_started/dsintro.html#dsintro" target="_blank">tutaj</a> (szybkie zapoznanie się ze strukturami Series i DataFrame zawartymi w tym linku jest wkazane),
-  * Roboczy plik tekstowy 'samochody1tys.csv', zawierający dane z 1000 ogłoszeń motoryzacyjnych, dostępny jest na Slacku. Dane składają się z 1000 rekordów. Każdy rekord dotyczy jednego ogłoszenia motoryzacyjnego i zawiera następujące informacje: identyfikator ogłoszenia, marka samochodu, model samochodu, rok produkcji, rodzaj silnika, pojemność silnika, przebieg samochodu, cena, województwo.
-  * Należy przerobić krótki wstęp do Pandas (link powyżej) i tam gdzie się da należy użyć danych z pliku roboczego,
+  * roboczy plik tekstowy 'samochody1tys.csv', zawierający dane z 1000 ogłoszeń motoryzacyjnych, dostępny jest na Slacku. Dane składają się z 1000 rekordów. Każdy rekord dotyczy jednego ogłoszenia motoryzacyjnego i zawiera następujące informacje: identyfikator ogłoszenia, marka samochodu, model samochodu, rok produkcji, rodzaj silnika, pojemność silnika, przebieg samochodu, cena, województwo.
+  * należy przerobić krótki wstęp do Pandas (link powyżej) i tam gdzie się da należy użyć danych z pliku roboczego,
   * do wczytania danych korzystamy z funkcji ```read_csv```, 
   * przed każdą operacją (zbiorem operacji) konieczna jest linia z komentarzem po polsku, a w niej opis co zamierzamy zrobić,
   * wyniki zapisujemy w pliku .ipynb.
