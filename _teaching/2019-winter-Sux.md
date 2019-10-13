@@ -38,7 +38,12 @@ Tematy zadań
   * utwórz dwie macierze o odpowiednich wymiarach (doczytać) różnych od siebie i większych od 2, a następnie pomnóż je przez siebie za pomocą dwóch różnych funkcji (np. 'matmul' i 'multiply'),
   * ściąga do pakietu Numpy - <a href="https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Numpy_Python_Cheat_Sheet.pdf" target="_blank">link</a>
 
-2. Coming soon ...
+2. Analiza danych z pakietem Pandas
+  * instalacja - ```pip install pandas --user```
+  * krótki wstęp do Pandas - <a href="https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html" target="_blank">tutaj</a>,
+  * oficjalna ściąga - <a href="https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf" target="_blank">tutaj</a>,
+  * 
+
 3. Coming soon ...
 4. Coming soon ...
 5. Coming soon ...
