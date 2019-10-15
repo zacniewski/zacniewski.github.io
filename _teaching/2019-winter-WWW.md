@@ -42,7 +42,28 @@ Tematy zadań
   * Stworzyć nowe elementy (np. za pomocą metod createElement i appendChild) oraz dodać do nich style (metoda 'style') i klasy (metoda 'add').
 
 
-2. Coming soon ...
+2. Wybrany framework front-endowy + JavaScript
+  * najpopularniejszy jest Bootstrap - <a href="https://getbootstrap.com/docs/4.3/getting-started/introduction/" target="_blank">tutaj</a> (jest tutaj dobry, prosty startowy szablon),
+  * UI Kit też jest ciekawy - <a href="https://getuikit.com/docs/installation" target="_blank">tutaj</a>,
+  * przydatne strony o JS:
+        * Kurs Java Script po polsku <a href="https://kursjs.pl/" target="_blank"> tutaj</a>,
+        * Kurs JS w formie wideo <a href="https://miroslawzelent.pl/kurs-javascript/" target="_blank"> tutaj</a>,
+        * JS + HTML DOM na <a href="https://www.w3schools.com/jsref/default.asp" target="_blank"> W3 Schools</a>.
+  * zadanie polega na wykorzystaniu "czystego" Java Script do wyświeltlania, modyfikowania, tworzenia (itp. itd.) elementów strony związanych z HTML i CSS,
+  * np. korzystając z ww. szablonu Bootstrap, można dodać przycisk z klasą ```badge``` do strony:
+```
+<button type="button" class="btn btn-primary">
+		Notifications <span class="badge badge-light"></span>
+	</button>
+```
+Poniżej, np. przed końcem sekcji ```body``` wrzucamy skrypt, który szuka elementu z klasą ```badge-light``` i ustawia jego wartość (innerHTML) na liczbę 6:
+```
+<script>
+	  var x = document.getElementsByClassName("badge-light");
+	  x[0].innerHTML = 6; 
+    </script>
+```
+  * w podobny sposób należy wykorzystać inne elementy JAva Script do modyfikacji elementów strony. 
 3. Coming soon ...
 4. Coming soon ...
 5. Coming soon ...
