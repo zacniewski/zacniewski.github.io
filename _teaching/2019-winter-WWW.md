@@ -53,20 +53,21 @@ Tematy zadań
         * JS + HTML DOM na <a href="https://www.w3schools.com/jsref/default.asp" target="_blank"> W3 Schools</a>.
 
   * na przykład korzystając z ww. szablonu Bootstrap, można dodać przycisk z klasą ```badge-light``` do strony (np. pod nagłówkiem 'Hello world'):
-```
-<button type="button" class="btn btn-primary">
-		Notifications <span class="badge badge-light"></span>
-	</button>
-```
-Poniżej, np. przed końcem sekcji ```body``` wrzucamy skrypt, który szuka elementu z klasą ```badge-light``` i ustawia jego wartość (innerHTML) na liczbę 6:
-```
-<script>
-	  var x = document.getElementsByClassName("badge-light");
-	  x[0].innerHTML = 6; // x[0] to pierwszy znaleziony element
-    </script>
-```
+	```
+	<button type="button" class="btn btn-primary">
+			Notifications <span class="badge badge-light"></span>
+		</button>
+	```
+	Poniżej, np. przed końcem sekcji ```body``` wrzucamy skrypt, który szuka elementu z klasą ```badge-light``` i ustawia jego wartość (innerHTML) na liczbę 6:
+	```
+	<script>
+		  var x = document.getElementsByClassName("badge-light");
+		  x[0].innerHTML = 6; // x[0] to pierwszy znaleziony element
+	    </script>
+	```
   * w podobny sposób należy wykorzystać inne elementy Java Script do modyfikacji elementów strony,
   * wskazane użycie około 20 różnych elementów Java Script do ww. modyfikacji.
+
 3. Coming soon ...
 4. Coming soon ...
 5. Coming soon ...
