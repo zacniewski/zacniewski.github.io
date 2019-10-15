@@ -51,14 +51,13 @@ Tematy zadań
         * Kurs Java Script po polsku <a href="https://kursjs.pl/" target="_blank"> tutaj</a>,
         * Kurs JS w formie wideo <a href="https://miroslawzelent.pl/kurs-javascript/" target="_blank"> tutaj</a>,
         * JS + HTML DOM na <a href="https://www.w3schools.com/jsref/default.asp" target="_blank"> W3 Schools</a>.
-
-  * na przykład korzystając z ww. szablonu Bootstrap, można dodać przycisk z klasą ```badge-light``` do strony (np. pod nagłówkiem 'Hello world'):
+  * na przykład korzystając z ww. szablonu Bootstrap, można dodać przycisk z klasą ```badge-light``` do strony (np. pod nagłówkiem 'Hello world'),
 	```
 	<button type="button" class="btn btn-primary">
 			Notifications <span class="badge badge-light"></span>
 		</button>
 	```
-	Poniżej, np. przed końcem sekcji ```body``` wrzucamy skrypt, który szuka elementu z klasą ```badge-light``` i ustawia jego wartość (innerHTML) na liczbę 6:
+	Poniżej, np. przed końcem sekcji ```body``` wrzucamy skrypt, który szuka elementu z klasą ```badge-light``` i ustawia jego wartość (innerHTML) na liczbę 6,
 	```
 	<script>
 		  var x = document.getElementsByClassName("badge-light");
