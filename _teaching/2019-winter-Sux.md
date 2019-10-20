@@ -49,8 +49,17 @@ Tematy zadań
   * do wczytania danych korzystamy z funkcji ```read_csv```, 
   * przed każdą operacją (zbiorem operacji) konieczna jest linia z komentarzem po polsku, a w niej opis co zamierzamy zrobić,
   * wyniki zapisujemy w pliku .ipynb.
+  * dla spóźnialskich:
 
-3. Coming soon ...
+3. Matplotlib
+  * instalacja: ```pip install matplotlib --user```
+  * krótki wstęp po polsku - <a href="https://python101.readthedocs.io/pl/latest/pylab/" target="_blank">tutaj</a>,
+  * ściąga - <a href="https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_Matplotlib_Cheat_Sheet.pdf" target="_blank">tutaj</a>,
+  * utwórz wykresy funkcji liniowej, kwadratowej, trzeciego rzędu oraz wybranej funkcji trygonometrycznej zgodnie z <a href="https://matplotlib.org/tutorials/introductory/usage.html#sphx-glr-tutorials-introductory-usage-py"> wytycznymi</a>,
+  * utwórz wykres słupkowy na podstawie danych z pliku 'samochody1tys.csv' (lab. nr 2). Może to być np. liczebność danej marki samochodu. Można użyć pakietów numpy i pandas, jeśli jest taka potrzeba,
+  * utwórz wykres kołowy na podstawie ww. pliku, ale z innymi danymi niż do wykresu słupkowego,
+  * ...cdn
+
 4. Coming soon ...
 5. Coming soon ...
 6. Coming soon ...
