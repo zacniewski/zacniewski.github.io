@@ -73,8 +73,8 @@ Tematy zadań
   * nie korzystamy z dystrybucji Anaconda! Można zainstalować pakiet requests za pomocą pip'a,
   * utwórz za pomocą openpyxl trzy arkusze o nazwach "Giełda", "Linki" i "Filmweb" (pokazane we wstępie),
   * pod adresem https://stooq.pl/q/?s=cdr znajdziesz notowania giełdowe spółki CD Projekt Red, 
-        * wygeneruj 5 losoywch kodów 3-literowych,
-        * napisz kod, który dla wygenerowanego wyżej trzyliterowego kodu spółki wyświetli jego aktualną cenę (Kurs), procentową zmianę (Zmiana) oraz liczbę transakcji (Transakcje),
+        * wygeneruj 5 losowych kodów 3-literowych,
+        * napisz kod, który dla wygenerowanych wyżej trzyliterowych kodów spółki wyświetli ich aktualną cenę (Kurs), procentową zmianę (Zmiana) oraz liczbę transakcji (Transakcje),
         * zapisz wyniki do arkusza 'Giełda',
   * dla swojej ulubionej strony internetowej napisz kod, który połączy się ze stroną, znajdzie wszystkie linki na stronie (znacznik <a> posiadający atrybut href) a następnie zapisze je do arkusza 'Linki', 
   * dla ustalonego linku do filmu na Filmwebie, np. https://www.filmweb.pl/film/To%3A+Rozdzia%C5%82+2-2019-793838, napisz kod, który zwróci:
@@ -82,9 +82,8 @@ Tematy zadań
         * datę premiery,
         * boxoffice,
         * ocenę filmu.    
-  </br>
-  Zapisz uzyskane wyniki do arkusza 'Filmweb'
-  * zapisz plik z wynikami w formie 'nazwisko-grupa.xlsx'.
+        * zapisz uzyskane wyniki do arkusza 'Filmweb'
+  * zapisz plik z wynikami trzech zadań w formie 'nazwisko-grupa.xlsx'.
 5. Coming soon ...
 6. Coming soon ...
 7. Coming soon ...
