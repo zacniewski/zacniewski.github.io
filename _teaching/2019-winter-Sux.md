@@ -76,7 +76,7 @@ Tematy zadań
         * wygeneruj 5 losowych kodów 3-literowych,
         * napisz kod, który dla wygenerowanych wyżej trzyliterowych kodów spółki wyświetli ich aktualną cenę (Kurs), procentową zmianę (Zmiana) oraz liczbę transakcji (Transakcje),
         * zapisz wyniki do arkusza 'Giełda',
-  * dla swojej ulubionej strony internetowej napisz kod, który połączy się ze stroną, znajdzie wszystkie linki na stronie (znacznik <a> posiadający atrybut href) a następnie zapisze je do arkusza 'Linki', 
+  * dla swojej ulubionej strony internetowej napisz kod, który połączy się ze stroną, znajdzie wszystkie linki na stronie (znacznik 'a' posiadający atrybut 'href'), a następnie zapisze je do arkusza 'Linki', 
   * dla ustalonego linku do filmu na Filmwebie, np. https://www.filmweb.pl/film/To%3A+Rozdzia%C5%82+2-2019-793838, napisz kod, który zwróci:
         * reżysera,
         * datę premiery,
