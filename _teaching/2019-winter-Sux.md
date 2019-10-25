@@ -63,12 +63,27 @@ Tematy zadań
   * proszę pamiętać o komentarzach przed użyciem danej funkcji,
 
 
-4. Praca z danymi
-  * plik .zip do tej laborki wysłano na Slacku,
-  * pomocny kod do laborki - <a href="https://helion.pl/pobierz-przyklady/dascpo/">tutaj</a>,
-  * proszę uruchomić przykłady znajdujące się w pliku pdf,
-  * jednym z celów jest też oswojenie się z kodem w Pythonie,
-  * kolejne zadania do tej laborki zostaną dodane wkrótce ...
+4. Praca z danymi - web scraping i zapis do Excela
+  * instalacja Beautiful Soup: ```pip install beautifulsoup4 --user``` (do web scrapingu),
+  * dokumentacja BS4 - <a href="https://beautiful-soup-4.readthedocs.io/en/latest/#" "target=_blank">tutaj</a>,
+  * instalacja openpyxl: ```pip install openpyxl --user``` (do pracy z arkuszami Excela),
+  * dokumentacja openpyxl - <a href="https://openpyxl.readthedocs.io/en/stable/index.html" "target=_blank">tutaj</a>,
+  * wstęp do openpyxl - <a href="https://openpyxl.readthedocs.io/en/stable/tutorial.html" "target=_blank">tutaj</a>,
+  * wstęp do web scrapingu za pomocą BS4 - <a href="https://www.kodolamacz.pl/blog/wyzwanie-python-7-web-scraping/" "target=_blank">tutaj</a>,
+  * nie korzystamy z dystrybucji Anaconda! Można zainstalować pakiet requests za pomocą pip'a,
+  * utwórz za pomocą openpyxl trzy arkusze o nazwach "Giełda", "Linki" i "Filmweb" (pokazane we wstępie),
+  * pod adresem https://stooq.pl/q/?s=cdr znajdziesz notowania giełdowe spółki CD Projekt Red, 
+        * wygeneruj 5 losoywch kodów 3-literowych,
+        * napisz kod, który dla wygenerowanego wyżej trzyliterowego kodu spółki wyświetli jego aktualną cenę (Kurs), procentową zmianę (Zmiana) oraz liczbę transakcji (Transakcje),
+        * zapisz wyniki do arkusza 'Giełda',
+  * dla swojej ulubionej strony internetowej napisz kod, który połączy się ze stroną, znajdzie wszystkie linki na stronie (znacznik <a> posiadający atrybut href) a następnie zapisze je do arkusza 'Linki', 
+  * dla ustalonego linku do filmu na Filmwebie, np. https://www.filmweb.pl/film/To%3A+Rozdzia%C5%82+2-2019-793838, napisz kod, który zwróci:
+        * reżysera,
+        * datę premiery,
+        * boxoffice,
+        * ocenę filmu.
+  Zapisz uzyskane wyniki do arkusza 'Filmweb'
+  * zapisz plik z wynikami w formie 'nazwisko-grupa.xlsx'.
 5. Coming soon ...
 6. Coming soon ...
 7. Coming soon ...
