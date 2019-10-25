@@ -65,11 +65,11 @@ Tematy zadań
 
 4. Praca z danymi - web scraping i zapis do Excela
   * instalacja Beautiful Soup: ```pip install beautifulsoup4 --user``` (do web scrapingu),
-  * dokumentacja BS4 - <a href="https://beautiful-soup-4.readthedocs.io/en/latest/#" "target=_blank">tutaj</a>,
+  * dokumentacja BS4 - <a href="https://beautiful-soup-4.readthedocs.io/en/latest/" target="_blank">tutaj</a>,
   * instalacja openpyxl: ```pip install openpyxl --user``` (do pracy z arkuszami Excela),
-  * dokumentacja openpyxl - <a href="https://openpyxl.readthedocs.io/en/stable/index.html" "target=_blank">tutaj</a>,
-  * wstęp do openpyxl - <a href="https://openpyxl.readthedocs.io/en/stable/tutorial.html" "target=_blank">tutaj</a>,
-  * wstęp do web scrapingu za pomocą BS4 - <a href="https://www.kodolamacz.pl/blog/wyzwanie-python-7-web-scraping/" "target=_blank">tutaj</a>,
+  * dokumentacja openpyxl - <a href="https://openpyxl.readthedocs.io/en/stable/index.html" target="_blank">tutaj</a>,
+  * wstęp do openpyxl - <a href="https://openpyxl.readthedocs.io/en/stable/tutorial.html" target="_blank">tutaj</a>,
+  * wstęp do web scrapingu za pomocą BS4 - <a href="https://www.kodolamacz.pl/blog/wyzwanie-python-7-web-scraping/" target="_blank">tutaj</a>,
   * nie korzystamy z dystrybucji Anaconda! Można zainstalować pakiet requests za pomocą pip'a,
   * utwórz za pomocą openpyxl trzy arkusze o nazwach "Giełda", "Linki" i "Filmweb" (pokazane we wstępie),
   * pod adresem https://stooq.pl/q/?s=cdr znajdziesz notowania giełdowe spółki CD Projekt Red, 
@@ -81,7 +81,8 @@ Tematy zadań
         * reżysera,
         * datę premiery,
         * boxoffice,
-        * ocenę filmu.
+        * ocenę filmu.    
+  </br>
   Zapisz uzyskane wyniki do arkusza 'Filmweb'
   * zapisz plik z wynikami w formie 'nazwisko-grupa.xlsx'.
 5. Coming soon ...
