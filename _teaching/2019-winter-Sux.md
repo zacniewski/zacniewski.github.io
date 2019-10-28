@@ -74,6 +74,8 @@ Tematy zadań
   * utwórz za pomocą openpyxl trzy arkusze o nazwach "Giełda", "Linki" i "Filmweb" (pokazane we wstępie),
   * pod adresem https://stooq.pl/q/?s=cdr znajdziesz notowania giełdowe spółki CD Projekt Red, 
         * wygeneruj 5 losowych kodów 3-literowych,
+        * generowane są trzyliterowe kody do momentu aż trafi się 5, które istnieją. 
+        * inna opcja - na  stronie z błędem 404 (dla nieistniejącego kodu) jest link do najbardziej pasującego rekordu, można go wyciągnąć za pomocą BS4 i stworzyć kolejne zapytanie,
         * napisz kod, który dla wygenerowanych wyżej trzyliterowych kodów spółki wyświetli ich aktualną cenę (Kurs), procentową zmianę (Zmiana) oraz liczbę transakcji (Transakcje),
         * zapisz wyniki do arkusza 'Giełda',
   * dla swojej ulubionej strony internetowej napisz kod, który połączy się ze stroną, znajdzie wszystkie linki na stronie (znacznik 'a' posiadający atrybut 'href'), a następnie zapisze je do arkusza 'Linki', 
