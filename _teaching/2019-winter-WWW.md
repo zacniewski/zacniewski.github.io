@@ -67,7 +67,15 @@ Tematy zadań
   * w podobny sposób należy wykorzystać inne elementy Java Script do modyfikacji elementów strony,
   * wskazane użycie około 20 różnych elementów Java Script do ww. modyfikacji.
 
-3. Coming soon ...
+3. Projektowanie aplikacji bazodanowej. Architektura klient-serwer. Model MVC (lub MTV w innych frameworkach)
+  * zaprojektować bazę danych do aplikacji typu 'blog',
+  * język (framework) programowania dowolny,
+  * dobra okazja do "wdrożenia się" w ulubioną technologię,
+  * utworzyć ww. bazę danych, np. poprzez ORM (mapowanie obiektowo - relacyjne) lub "ręcznie",
+  * wykonać proste zapytania do bazy danych w konsoli lub w panelu zarządzania (zapisać dwa wybrane zrzuty ekranu),
+  * dodać do aplikacji funkcje CRUD (ang. create, read, update, delete), tak aby były dostępne na stronie (przyciski, formularze itp.),
+  * uruchomić i przetestować serwer deweloperski, "sprawdzić" kody statusowe HTTP,
+  * przykład tworzenia projektu ww. typu w języku Python dostępny jest <a href="https://tutorial.djangogirls.org/pl/" target="_blank"> tutaj</a>, będę go omawiał szczegółowo na zajęciach.
 4. Coming soon ...
 5. Coming soon ...
 6. Coming soon ...
