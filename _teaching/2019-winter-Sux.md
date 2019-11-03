@@ -93,7 +93,7 @@ Tematy zadań
   * kilka słów o regresji liniowej - <a href="https://www.statystyczny.pl/regresja-liniowa/" target="_blank">link nr 2 tutaj</a>,
   * wstęp do regresji liniowej z przykładami w scikit-learn <a href="https://ksopyla.com/machine-learning/modele-regresji-liniowej-z-scikit-learn/" target="_blank"> link nr 3 tutaj </a>,
   * o zastosowaniu regresji liniowej - <a href="https://matematyka.poznan.pl/artykul/regresja-liniowa-czyli-o-zastosowaniu-funkcji-liniowej-w-analizie-statystycznej/" target="_blank"> link nr 4 tutaj</a>,
-  * w scikit-learn dostępne są dwa proste zbiory treningowe dla regresji liniowej: 'diabetes' i 'boston',
+  * w scikit-learn <a href="https://scikit-learn.org/stable/datasets/index.html" target="_blank">dostępne</a> są dwa proste zbiory treningowe dla regresji liniowej: 'diabetes' i 'boston',
   * korzystając z ww. linka nr 3 należy:
         * opracować wizualizację dla zbioru 'boston',
         * porównać modele regresji liniowej dla zbioru 'diabetes',
