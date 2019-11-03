@@ -89,8 +89,20 @@ Tematy zadań
 
 5. Regresja liniowa z scikit-learn
   * instalacja: ```pip install scikit-learn --user```,
-  * trochę informacji o regresji liniowej w przykładami w scikit-learn <a href="https://ksopyla.com/machine-learning/modele-regresji-liniowej-z-scikit-learn/"> tutaj </a>,
-6. Coming soon ...
+  * krótko o Machine Learning - <a href="https://www.statystyczny.pl/co-to-jest-machine-learning/" target="_blank">link nr 1 tutaj</a>,
+  * kilka słów o regresji liniowej - <a href="https://www.statystyczny.pl/regresja-liniowa/" target="_blank">link nr 2 tutaj</a>,
+  * wstęp do regresji liniowej z przykładami w scikit-learn <a href="https://ksopyla.com/machine-learning/modele-regresji-liniowej-z-scikit-learn/" target="_blank"> link nr 3 tutaj </a>,
+  * o zastosowaniu regresji liniowej - <a href="https://matematyka.poznan.pl/artykul/regresja-liniowa-czyli-o-zastosowaniu-funkcji-liniowej-w-analizie-statystycznej/" target=_blank"> link nr 4 tutaj</a>,
+  * w scikit-learn dostępne są dwa proste zbiory treningowe dla regresji liniowej: 'diabetes' i 'boston',
+  * korzystając z ww. linka nr 3 należy:
+        * opracować wizualizację dla zbioru 'boston',
+        * porównać modele regresji liniowej dla zbioru 'diabetes',
+        * wygenerować zbiór 100 punktów i dla niego dokonać obu ww. czynności.
+  * opracować przykład z linka nr 2 z wykorzystaniem bibliotek Python'a,
+  * opracować przykład z linka nr 4 z wykorzystaniem bibliotek Python'a,
+  * wszystkie wykresy powinny być opisane wg prawideł tworzenia wykresów (tytuły, opisy osi, jednostki, itp. itd.), 
+
+6. Klasyfikacja z użyciem z scikit-learn
 7. Coming soon ...
 8. Coming soon ...
 9. Coming soon ...
