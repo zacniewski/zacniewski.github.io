@@ -100,7 +100,7 @@ Tematy zadań
         * porównać modele regresji liniowej dla zbioru 'diabetes',
   * opracować przykład z linka nr 2 z wykorzystaniem bibliotek Python'a,
   * opracować przykład z linka nr 4 z wykorzystaniem bibliotek Python'a,
-  * wygenerować zbiór 100 punktów oraz obliczyć i wyświetlić dla nich prostą regresji (z wykorzystaniem bibliotek Python'a), mozna skorzystać z linka nr 5,
+  * wygenerować zbiór 100 punktów oraz obliczyć i wyświetlić dla nich prostą regresji (z wykorzystaniem bibliotek Python'a), można skorzystać z linka nr 5,
   * wszystkie wykresy powinny być opisane wg prawideł tworzenia wykresów (tytuły, opisy osi, jednostki, itp. itd.).
 
 6. Klasyfikacja z użyciem z scikit-learn
