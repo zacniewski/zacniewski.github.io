@@ -9,17 +9,17 @@ redirect_from:
 ---
 
 
-<div style="text-align: justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm an educator and programmer from Poland, who focuses on Python programming, Computer Vision and Internet Technologies. I'm involved in educational, scientific and commercial projects, related to these areas.</div>
+<div style="text-align: justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm Python Developer and educator from Poland, who focuses on Computer Vision, Data Science and Internet Technologies. I'm involved in educational, scientific and commercial projects, related to these areas.</div>
  
-<div style="text-align: justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm mostly concerned with Python programming and I still have a lot to learn and a lot to do in this field. The world of Python is fascinating and in connection with Computer Vision, Web technologies, Machine Learning, and few others areas has almost unlimited potential. Many things related to Python programming are very absorbing, and give a lot of pleasure. That's why I like it :)</div>
+<div style="text-align: justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm mostly concerned with programming in Python and I still have a lot to learn and a lot to do in this field. The world of Python is fascinating and in connection with Computer Vision, Web technologies, Machine Learning, and few others areas has almost unlimited potential. Many things related to Python programming are very absorbing, and give a lot of pleasure. That's why I like it :)</div>
 
-<div style="text-align: justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;By the way, you can check my scientific profiles to look at my interests and to discover what I'm currently working on. You can contact me through links below my photo.</div><br>
+<div style="text-align: justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;By the way, you can check my IT and scientific profiles to look at my interests and to discover what I'm currently working on. You can contact me through links below my photo.</div><br>
 
 Work, work, work ...
 ======
-<div style="text-align: justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In my <a href="https://informatyka.amw.gdynia.pl/">department</a> I prefer programming and scientific computation the most, and I also conduct lectures and laboratories on "Computer Vision", "WWW technologies", "Introduction to Data Science" and "Basics of Android programming". I was (and I am still) a supervisor of many engineering (B.Sc) projects. I also worked (and still working) as a developer (Python, WWW) in a few IT companies. </div>
+<div style="text-align: justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In my <a href="https://informatyka.amw.gdynia.pl/">department</a> I prefer programming and small scientific projects the most, and I also conduct lectures and laboratories on "Computer Vision", "WWW technologies", "Introduction to Data Science" and "Basics of Android programming". I was (and I am still) a supervisor of many engineering (B.Sc) projects. I also worked (and still working) as a developer (Python, WWW) in a few IT companies. </div>
 
-<div style="text-align: justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I have an honour and big pleasure to be an R&D Manager in the <a href="https://toucan-systems.pl/toucaneye/">Toucan Eye</a> project. It is an Artificial Intelligence system assisting persons with impaired sight. Project was gained from The National Centre for Research and Development in 2017. I think that experience gained in commercial industry (both jobs in IT and cooperation in projects) is priceless.</div>
+<div style="text-align: justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I had an honour and big pleasure to be an R&D Manager in the <a href="https://toucan-systems.pl/toucaneye/">Toucan Eye</a> project. It is an Artificial Intelligence system assisting persons with impaired sight. Project was gained from The National Centre for Research and Development in 2017. I think that experience gained in commercial industry (both jobs in IT and cooperation in projects) is priceless.</div>
 
 
 
