@@ -104,6 +104,11 @@ Tematy zadań
   * wszystkie wykresy powinny być opisane wg prawideł tworzenia wykresów (tytuły, opisy osi, jednostki, itp. itd.).
 
 6. Klasyfikacja z użyciem z scikit-learn
+  * w tej laborce tworzymy 3 odzielne notebooki - każdy dla jednego zadania,
+  * zadanie nr 1: należy przerobić klasyczny przykład klasyfikacji (zbiór IRIS) - <a href="https://kssk.gitbook.io/msi/1.-klasyfikacja-jako-przyklad-rozpoznawania-wzorcow/1.1-struktura-zbioru-danych" target="_blank">link nr 1 tutaj </a>,
+  * zadanie nr 2: należy przerobić pokazane przykłady klasyfikacji i wykonać wszystkie cztery wewnętrzne zadania - <a href="https://sebkaz.github.io/DataMining/05_Modelowanie_cw/" target="_blank">link nr 2 tutaj </a>,
+  * zadanie nr 3: należy przerobić przykład klasyfikacji polskich tekstów - <a href="http://www.deepdata.pl/nlp-scikit-learn-klasyfikacja/przyklad-klasyfikacji-polskich-tekstow-czesc-1/" target="_blank">link nr 3 tutaj </a>,
+  * proszę pamiętać o importach odpowiednich pakietów!
 7. Coming soon ...
 8. Coming soon ...
 9. Coming soon ...
