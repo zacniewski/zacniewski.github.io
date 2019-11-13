@@ -109,7 +109,21 @@ Tematy zadań
   * zadanie nr 2: należy przerobić pokazane przykłady klasyfikacji i wykonać wszystkie cztery wewnętrzne zadania - <a href="https://sebkaz.github.io/DataMining/05_Modelowanie_cw/" target="_blank">link nr 2 tutaj </a>,
   * zadanie nr 3: należy przerobić przykład klasyfikacji polskich tekstów - <a href="http://www.deepdata.pl/nlp-scikit-learn-klasyfikacja/przyklad-klasyfikacji-polskich-tekstow-czesc-1/" target="_blank">link nr 3 tutaj </a>,
   * proszę pamiętać o importach odpowiednich pakietów!
-7. Coming soon ...
+
+7. Prosta sieć neuronowa do implementacji funkcji logicznych
+  * można wykonać to zadanie w dowolnym języku,
+  * krótki wstęp do sieci neuronowych wraz z przykładami dotyczącymi funkcji logicznych - <a href="https://www.analyticsvidhya.com/blog/2016/03/introduction-deep-learning-fundamentals-neural-networks/" target="_blank">link nr 1 tutaj</a>,
+  * należy zaimplementować bramki logiczne AND, OR, NOT za pomocą pojedynczego neurona (przykłady 1-3),
+  * funkcja aktywacji <i>f</i> pokazana przed pierwszym przykładem jest wystarczająca,
+  * należy zaimplementować bramki logiczne XOR i XNOR za pomocą sieci neuronów (dalsze przykłady),
+  * można wykorzystać wartości wag i bias'ów podane na ww. stronie,
+  * proszę pamiętać, że każdy neuron ma funkcję aktywacji,
+  * w tabeli do każdego przykładu powinny znaleźć się:
+        * wartości wejść,
+        * wartości wag i biasów,
+        * wartości sumy iloczynów wag i wejść,
+        * wartości funkcji aktywacji neuronów (czyli ich wyjście),
+  * model neuronu pokazano tutaj: <img src="http://galaxy.uci.agh.edu.pl/~vlsi/AI/wstep/neuron_sz.png/>"/>.
 8. Coming soon ...
 9. Coming soon ...
 10. Coming soon ...
