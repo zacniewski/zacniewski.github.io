@@ -80,7 +80,8 @@ Tematy zadań
 4. SQL.
   * zrealizować proste i średnio zaawansowane zapytania SQL,
   * zapytania powinny dotyczyć rekordów z bazy danych, utworzonych w ramach lab. nr 3,
-  * rodzaje zapytań np. z <a href="https://www.w3schools.com/sql/default.asp" target="_blank">tej strony</a> (od SQL SELECT do SQL INSERT INTO SELECT z menu po lewej).
+  * rodzaje zapytań realizujemy z <a href="https://www.w3schools.com/sql/default.asp" target="_blank">tej strony</a> (od SQL SELECT do SQL INSERT INTO SELECT z menu po lewej),
+  * należy tak zaprojektować (dopasować) strukturę bazy danych, aby można było wykonać jak najwięcej ww. zapytań.
 
 5. Coming soon ...
 6. Coming soon ...
