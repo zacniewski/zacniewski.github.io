@@ -83,12 +83,23 @@ Tematy zadań
   * rodzaje zapytań realizujemy z <a href="https://www.w3schools.com/sql/default.asp" target="_blank">tej strony</a> (od SQL SELECT do SQL INSERT INTO SELECT z menu po lewej),
   * należy tak zaprojektować (dopasować) strukturę bazy danych, aby można było wykonać jak najwięcej ww. zapytań.
 
-5. Coming soon ...
-6. Coming soon ...
-7. Coming soon ...
-8. Coming soon ...
-9. Coming soon ...
-10. Coming soon ...
+5. Wdrażanie wybranego frameworka front-endowego.
+  * należy wybrać dowolny framework (inny niż ten użyty w lab. nr 2) i użyć go na swojej stronie;
+  * do wyboru do koloru, np. <a href="https://raygun.com/blog/popular-javascript-frameworks/" target="_blank">stąd</a>,
+  * to dobry czas na sprawdzenie technologii, na którą nigdy nie było czasu, ale zawsze kusiła ...,
+  * back-end można zostawić z poprzednich zadań albo zrobić coś nowego.
+
+6. Autentykacja i autoryzacja.
+  * przeanalizować sesje i ciasteczka,
+  * wdrożyć prosty system logowania do swojego serwisu.
+
+7. "Upiększanie" serwisu.
+  * Wykonać > 10 modyfikacji serwisu, np. wg <a href="https://www.w3schools.com/howto/default.asp"> tych wskazówek</a>.
+
+8. Praca z usługą typu PaaS (ang. Platform as a Service)
+  * Stworzyć konto np. na heroku.com	
+  * Zainstalować CLI dla Heroku (lub innej platformy);
+  * Przesłać swój projekt na Heroku zgodnie z dokumentacją.
 
 Zasady zaliczenia przedmiotu
 ======
@@ -100,14 +111,5 @@ Zasady zaliczenia przedmiotu
 3. Zrealizowane zadanie należy umieścić na portalu GitHub (lub BitBucket) i wysłać link do prowadzącego (Slack).
 4. Zadanie należy zaprezentować osobiście prowadzącemu. 
 
-Punkty i oceny
-======
+Punkty i oceny przedstawione są w arkuszu Google Docs.
 
-|    Liczba punktów    	| Ocena    |
-|    :-------------:	| :-----:  |
-|    45 - 50	        |     5    |
-|    39 - 44	        |    4,5   |
-|    34 - 38	        |     4    |
-|    29 - 33	        |    3,5   |
-|    25 - 28	        |     3    |
-|     0 - 24	        |     2    |
