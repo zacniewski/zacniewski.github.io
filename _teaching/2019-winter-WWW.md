@@ -86,7 +86,7 @@ Tematy zadań
 5. Wdrażanie wybranego frameworka front-endowego.
   * należy wybrać dowolny framework (inny niż ten użyty w lab. nr 2) i użyć go na swojej stronie;
   * do wyboru do koloru, np. <a href="https://raygun.com/blog/popular-javascript-frameworks/" target="_blank">stąd</a>,
-  * to dobry czas na sprawdzenie technologii, na którą nigdy nie było czasu, ale zawsze kusiła ...,
+  * to dobry czas na sprawdzenie technologii, na którą nigdy nie było czasu, ale zawsze kusiła &hearts;,
   * back-end można zostawić z poprzednich zadań albo zrobić coś nowego.
 
 6. Autentykacja i autoryzacja.
