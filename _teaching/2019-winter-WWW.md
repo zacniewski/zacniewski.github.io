@@ -76,7 +76,12 @@ Tematy zadań
   * dodać do aplikacji funkcje CRUD (ang. create, read, update, delete), tak aby były dostępne na stronie (przyciski, formularze itp.),
   * uruchomić i przetestować serwer deweloperski, "sprawdzić" kody statusowe HTTP,
   * przykład tworzenia projektu ww. typu w języku Python dostępny jest <a href="https://tutorial.djangogirls.org/pl/" target="_blank"> tutaj</a>, będę go omawiał szczegółowo na zajęciach.
-4. Coming soon ...
+
+4. SQL.
+  * zrealizować proste i średnio zaawansowane zapytania SQL,
+  * zapytania powinny dotyczyć rekordów z bazy danych, utworzonych w ramach lab. nr 3,
+  * rodzaje zapytań np. z <a href="https://www.w3schools.com/sql/default.asp" target="_blank">tej strony</a> (od SQL SELECT do SQL INSERT INTO SELECT z menu po lewej).
+
 5. Coming soon ...
 6. Coming soon ...
 7. Coming soon ...
