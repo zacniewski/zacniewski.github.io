@@ -125,8 +125,16 @@ Tematy zadań
         * wartości funkcji aktywacji neuronów (czyli ich wyjście),
   * model neuronu pokazano <a href="http://galaxy.uci.agh.edu.pl/~vlsi/AI/wstep/" target="_blank">tutaj</a>.
 
-8. Algorytm k najbliższych sąsiadów
-  * ..
+8. Algorytm k najbliższych sąsiadów (kNN)
+  * teoria do lab. nr 8-10 przesłana na Slacku,
+  * pliki do lab. 8-10 - <a href="ftp://ftp.helion.pl/przyklady/dascpo.zip" target="_blank">tutaj</a>.
+  * przenalizuj przykład z ulubionym językami programowania (dane z DataSciencester),
+  * wykonaj implementację funkcji plot_state_borders(), ale dla kraju <b>innego</b> niż USA,
+  * należy pamiętać o aktualizacji współrzędnych geograficznych,
+  * dokonaj graficznej interpretacji algorytmu dla k od 1 do 9 (podobnie jak na rysunkach 12.2 - 12.4),
+  * zrealizauj przykład z danymi o większej liczbie wymiarów dla innych danych niż w opisie,
+  * za pomocą pakietu <a href="http://bit.ly/1ycP5rj" target="_blank">scikit-learn</a> przedstaw dwie dowolne implementacje algorytmu kNN,
+  * przydatne: ```from collections import Counter``` (https://docs.python.org/3.6/library/collections.html#collections.Counter),
 
 9. Naiwny klasyfikator bayesowski
   * ..
