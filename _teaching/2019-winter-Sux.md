@@ -149,7 +149,11 @@ Tematy zadań
   * na wyższą ocenę - za pomocą pakietu <a href="https://scikit-learn.org/stable/modules/naive_bayes.html" target="_blank">scikit-learn</a> zaimplementuj wybraną wersję algorytmu 'Naive Bayes'.
 
 10. Drzewa decyzyjne
-  * ..
+  * przykład budowy drzewa decyzyjnego z obliczeniami - <a href="http://zsi.tech.us.edu.pl/~nowak/abdiped/dd.pdf" target="_blank">tutaj</a>,
+  * zaimplementuj przykład budowy drzewa ID3 wg opisu, ale wygeneruj dodatkowe dane:
+        * zbiór 20 kandydatów,
+        * zbiór 50 kandydatów,
+  * na wyższą ocenę - za pomocą pakietu <a href="https://scikit-learn.org/stable/modules/tree.html" target="_blank">scikit-learn</a> wykorzystaj drzewa decyzyjne w dwóch wybranych problemach.
 
 Zasady zaliczenia przedmiotu
 ======
