@@ -127,17 +127,27 @@ Tematy zadań
 
 8. Algorytm k najbliższych sąsiadów (kNN)
   * teoria do lab. nr 8-10 przesłana na Slacku,
-  * pliki do lab. 8-10 - <a href="ftp://ftp.helion.pl/przyklady/dascpo.zip" target="_blank">tutaj</a>.
+  * przydatne pliki do lab. 8-10 - <a href="ftp://ftp.helion.pl/przyklady/dascpo.zip" target="_blank">tutaj</a>.
   * przenalizuj przykład z ulubionym językami programowania (dane z DataSciencester),
   * wykonaj implementację funkcji plot_state_borders(), ale dla kraju <b>innego</b> niż USA,
   * należy pamiętać o aktualizacji współrzędnych geograficznych,
   * dokonaj graficznej interpretacji algorytmu dla k od 1 do 9 (podobnie jak na rysunkach 12.2 - 12.4),
-  * zrealizauj przykład z danymi o większej liczbie wymiarów dla innych danych niż w opisie,
-  * za pomocą pakietu <a href="https://scikit-learn.org/stable/modules/neighbors.html" target="_blank">scikit-learn</a> przedstaw dwie dowolne implementacje algorytmu kNN,
+  * zrealizuj przykład z danymi o większej liczbie wymiarów dla innych danych niż w opisie,
+  * na wyższą ocenę - za pomocą pakietu <a href="https://scikit-learn.org/stable/modules/neighbors.html" target="_blank">scikit-learn</a> przedstaw dwie dowolne implementacje algorytmu kNN,
   * przydatne: ```from collections import Counter``` (https://docs.python.org/3.6/library/collections.html#collections.Counter),
 
 9. Naiwny klasyfikator bayesowski
-  * ..
+  * wskazane odświeżenie twierdzenia Bayesa, w tym skąd nazwa "naiwny",
+  * funkcja ```findall``` znajduje się w module ```re```, czyli musimy użyć ```import re```,
+  * przydatne: ```from collections import defauldict``` (https://docs.python.org/3.6/library/collections.html#collections.defaultdict),
+  * technika 'wygładzania' związana jest z pseudosumą,
+  * zaimplementuj filtr antyspamowy wg opisu,
+  * skorzystaj z datasetu ze <a href="https://spamassassin.apache.org/old/publiccorpus/" target="_blank">strony</a>,
+  * osoby z nieparzystym numerem indeksu (albumu) opracowują zbiór z 2003 r., pozostałe z 2002 roku, 
+  * proszę podzielić dane na treningowe i testowe z <b> innym</b> współczynnikiem niż 0.75,
+  * prosze dokonać analizy wg schematu podanego w opisie,
+  * na wyższą ocenę - za pomocą pakietu <a href="https://scikit-learn.org/stable/modules/naive_bayes.html" target="_blank">scikit-learn</a> zaimplementuj wybraną wersję algorytmu 'Naive Bayes'.
+
 10. Drzewa decyzyjne
   * ..
 
