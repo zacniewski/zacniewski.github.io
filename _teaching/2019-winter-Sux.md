@@ -133,7 +133,7 @@ Tematy zadań
   * należy pamiętać o aktualizacji współrzędnych geograficznych,
   * dokonaj graficznej interpretacji algorytmu dla k od 1 do 9 (podobnie jak na rysunkach 12.2 - 12.4),
   * zrealizauj przykład z danymi o większej liczbie wymiarów dla innych danych niż w opisie,
-  * za pomocą pakietu <a href="http://bit.ly/1ycP5rj" target="_blank">scikit-learn</a> przedstaw dwie dowolne implementacje algorytmu kNN,
+  * za pomocą pakietu <a href="https://scikit-learn.org/stable/modules/neighbors.html" target="_blank">scikit-learn</a> przedstaw dwie dowolne implementacje algorytmu kNN,
   * przydatne: ```from collections import Counter``` (https://docs.python.org/3.6/library/collections.html#collections.Counter),
 
 9. Naiwny klasyfikator bayesowski
