@@ -124,9 +124,14 @@ Tematy zadań
         * wartości sumy iloczynów wag i wejść,
         * wartości funkcji aktywacji neuronów (czyli ich wyjście),
   * model neuronu pokazano <a href="http://galaxy.uci.agh.edu.pl/~vlsi/AI/wstep/" target="_blank">tutaj</a>.
-8. Coming soon ...
-9. Coming soon ...
-10. Coming soon ...
+
+8. Algorytm k najbliższych sąsiadów
+  * ..
+
+9. Naiwny klasyfikator bayesowski
+  * ..
+10. Drzewa decyzyjne
+  * ..
 
 Zasady zaliczenia przedmiotu
 ======
