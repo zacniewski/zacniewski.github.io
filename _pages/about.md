@@ -19,6 +19,6 @@ Work, work, work ...
 ======
 <div style="text-align: justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Currently, I had a big pleasure to be a Python Developer in <a href="https://profil-software.com/">Profil Software</a> team. It is a Software House located in Gdynia.</div>
 
-<div style="text-align: justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In my <a href="https://informatyka.amw.gdynia.pl/2/">department</a> I prefer programming and small scientific projects the most, and I also conduct lectures and laboratories on "Computer Vision", "WWW technologies", "Introduction to Data Science" and "Basics of Android programming". I was a supervisor of many engineering (B.Sc) projects. I also worked (and still working) as a developer (Python, WWW) in a few IT companies. </div>
+<div style="text-align: justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In my <a href="https://informatyka.amw.gdynia.pl/">department</a> I prefer programming and small scientific projects the most, and I also conduct lectures and laboratories on "Computer Vision", "WWW technologies", "Introduction to Data Science" and "Basics of Android programming". I was a supervisor of many engineering (B.Sc) projects. I also worked (and still working) as a developer (Python, WWW) in a few IT companies. </div>
 
 
