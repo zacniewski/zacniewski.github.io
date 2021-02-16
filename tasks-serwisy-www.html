@@ -67,9 +67,21 @@
                         <h1 class="mt-4">Projektowanie serwisów WWW</h1>
                         <ol class="breadcrumb mb-4">
                             <li class="breadcrumb-item active">
-                                Zadania do wykonania 
+                                <span>Zadania do wykonania</span> 
                             </li>
                         </ol>
+                        <nav aria-label="Page navigation example">
+                            <ul class="pagination pagination-lg flex-wrap justify-content-center">
+                              <li class="page-item disabled"><a class="page-link" href="#">Lab. 1</a></li>
+                              <li class="page-item"><a class="page-link" href="#lab2">Lab. 2</a></li>
+                              <li class="page-item"><a class="page-link" href="#lab3">Lab. 3</a></li>
+                              <li class="page-item"><a class="page-link" href="#lab4">Lab. 4</a></li>
+                              <li class="page-item"><a class="page-link" href="#lab5">Lab. 5</a></li>
+                              <li class="page-item"><a class="page-link" href="#lab6">Lab. 6</a></li>
+                              <li class="page-item"><a class="page-link" href="#lab7">Lab. 7</a></li>
+                              <li class="page-item"><a class="page-link" href="#lab8">Lab. 8</a></li>
+                            </ul>
+                          </nav>
                         <div class="row">
                             <div class="col-xl-12 col-md-12">
                                 <div class="card mt-4 mb-4">
@@ -139,78 +151,418 @@
                                                 - należy utworzyć konto na hostingu GitHub lub innym (np. Bitbucket, GitLab), aby "przechowywać" tam zrealizowane laboratoria,
                                             </li>
                                             <li class="list-group-item">
-                                                 -należy utworzyć repozytorium o nazwie <code>projektowanie-serwisow-www-dane-nr_grupy</code>, gdzie zamaist 'dane' wpisujemy nazwisko lub nr indeksu; będzie ono podstawą zaliczenia przedmiotu.
+                                                 -należy utworzyć repozytorium o nazwie <code>projektowanie-serwisow-www-dane-nr_grupy</code>, gdzie zamiast 'dane' wpisujemy nazwisko lub nr indeksu; będzie ono podstawą zaliczenia przedmiotu.
+                                            </li>
+                                            <a name="lab2"></a>
                                         </ul>
+                                    </div>
                                 </div>
                             </div>
-                         </div>
+                        </div> <!--lab 1-->
 
                         <div class="row">
-                            <div class="col-xl-6 col-md-6">
-                                <div class="card badge-success mt-4 mb-4">
-                                    <div class="card-body">HTML, CSS, Markdown</div>
-                                    <ul class="list-group list-group-flush  text-dark">
-                                        <li class="list-group-item">Cras justo odio</li>
-                                        <li class="list-group-item">Dapibus ac facilisis in</li>
-                                        <li class="list-group-item">Vestibulum at eros <a href="index.html">dwedwew</a></li>
-                                    </ul>
+                            <div class="col-xl-12 col-md-12">
+                                <div class="card mt-4 mb-4">
+                                    <div class="card-body badge-success">
+                                        <h4>Lab. nr <span class="badge badge-primary badge-pill">2</span> - "Praca z elementami DOM z wykorzystaniem Javascript"</h4>
+                                    </div>
+                                    <div class="card-body">
+                                        <ul class="list-group list-group-flush text-dark">zadania z JavaScript
+                                            <li class="list-group-item">
+                                                - zadanie polega na wykorzystaniu Java Script (vanilla, jQuery lub inny) do wyświeltlania, modyfikowania, tworzenia (itp. itd.) elementów strony związanych z HTML i CSS,                                            
+                                            </li>
+                                            <li class="list-group-item">
+                                                - należy użyć wybrany (dowolny) framework front-endowy do tego zadania,
+                                            </li>
+                                            <li class="list-group-item">
+                                                - jeden z najpopularniejszych to Bootstrap - np. pod tym <a href="https://getbootstrap.com/docs/4.5/getting-started/introduction/" target="_blank">linkiem </a> znajduje się dobry, prosty startowy szablon,
+                                            </li>
+                                            <li class="list-group-item">
+                                                - <a href="https://getuikit.com/docs/installation" target="_blank">UI Kit</a> też jest ciekawy, jest jeszcze kilka innych &#128512;,
+                                            </li>
+                                            <li class="list-group-item">
+                                                - przydatna może być <a href="https://www.w3schools.com/jsref/default.asp" target="_blank">strona </a>o Javascript + DOM,
+                                            </li>
+                                            <li class="list-group-item">
+                                                - np. korzystając z ww. szablonu Bootstrap, można dodać przycisk z klasą <code>badge-light</code> do strony (np. pod nagłówkiem 'Hello world'):
+                                                                                            
+                                                <pre><code>
+                                                    &lt;button type="button" class="btn btn-primary"&gt;
+                                                            Notifications &lt;span class="badge badge-light">&lt;/span&gt;
+                                                    &lt;/button&gt;
+                                                </code></pre>
+                                                Poniżej, np. przed końcem sekcji <code>body</code> wrzucamy skrypt, który szuka elementu z klasą <code>badge-light</code> i ustawia jego wartość (innerHTML) na liczbę 6:
+                                                <pre><code>
+                                                    &lt;script&gt;
+                                                        let x = document.getElementsByClassName("badge-light");
+                                                        x[0].innerHTML = 6; // x[0] to pierwszy znaleziony element
+                                                    &lt;/script&gt;
+                                                </code></pre>
+                                            </li>
+                                            <li class="list-group-item">
+                                                - w podobny sposób należy wykorzystać inne dostępne metody i właściwości Java Script do modyfikacji elementów strony,
+                                            </li>
+                                            <li class="list-group-item">
+                                                -  wskazane użycie 20 różnych metod i właściwości Java Script do ww. modyfikacji, np.:
+                                                <code>document.body.style.backgroundColor = "red"; // właściwość 'backgroundColor' </code>
+                                                lub  
+                                                <pre><code>
+                                                    var node = document.createElement("LI");                 // Create a &lt;li&gt; node
+                                                    var textnode = document.createTextNode("Water");         // Create a text node
+                                                    node.appendChild(textnode);                              // Append the text to &lt;li&gt;
+                                                    document.getElementById("myList").appendChild(node);     // Append &lt;li&gt; to &lt;ul&gt; with id="myList"
+                                                </code></pre>
+                                            </li>
+                                            <li class="list-group-item">
+                                                - w powyższym przykładzie użyte zostały trzy metody, ale całość traktujemy jako jeden przypadek z 20 wymaganych,
+                                            </li>
+                                            <li class="list-group-item">
+                                                - użyj w wybranych przez siebie fragmentach kodu "trybu ścisłego" - <code>use strict;</code>
+                                            </li>
+                                            <li class="list-group-item">
+                                                - można do pomocy wykorzystać <a href="https://www.w3schools.com/jquery/jquery_dom_get.asp" target="_blank">jQuery</a>.
+                                            </li>
+                                            <a name="lab3"></a>
+                                        </ul>
+                                    </div>
                                 </div>
                             </div>
-                            <div class="col-xl-6 col-md-6">
-                                <div class="card bg-success text-white mt-4 mb-4">
-                                    <div class="card-body">IDE i konsole</div>
-                                    <ul class="list-group list-group-flush  text-dark">
-                                        <li class="list-group-item">Cras justo odio</li>
-                                        <li class="list-group-item">Dapibus ac facilisis in</li>
-                                        <li class="list-group-item">Vestibulum at eros <a href="index.html">dwedwew</a></li>
-                                      </ul>
-                                </div>
-                            </div>
-                        </div>
+                        </div> <!--lab 2-->
+
                         <div class="row">
-                            <div class="col-xl-6 col-md-6">
-                                <div class="card badge-success mt-4 mb-4">
-                                    <div class="card-body">Java Script</div>
-                                    <ul class="list-group list-group-flush  text-dark">
-                                        <li class="list-group-item">Cras justo odio</li>
-                                        <li class="list-group-item">Dapibus ac facilisis in</li>
-                                        <li class="list-group-item">Vestibulum at eros <a href="index.html">dwedwew</a></li>
-                                      </ul>
+                            <div class="col-xl-12 col-md-12">
+                                <div class="card mt-4 mb-4">
+                                    <div class="card-body badge-success">
+                                        <h4>Lab. nr <span class="badge badge-primary badge-pill">3</span> - "Obsługa zdarzeń"</h4>
+                                    </div>
+                                    <div class="card-body">
+                                        <ul class="list-group list-group-flush text-dark">
+                                            <li class="list-group-item">
+                                                - w ramach praktyki do wykonania <a href="https://github.com/kartofelek007/zadania-podstawy/tree/master/3-funkcje/1-zadania" target="_blank">zadania z JavaScript</a> - część 1 (9 zadań),                                            
+                                            </li>
+                                            <li class="list-group-item">
+                                                - za pomocą metody <a href="https://www.w3schools.com/js/js_htmldom_eventlistener.asp" target="_blank">addEventListener</a> należy obsłużyć 10 różnych wybranych zdarzeń,
+                                            </li>
+                                            <li class="list-group-item">
+                                                - lista zdarzeń HTML DOM do użycia <a href="https://www.w3schools.com/jsref/dom_obj_event.asp" target="_blank">tutaj</a>,
+                                            </li>
+                                            <li class="list-group-item">
+                                                - przykład Keyboard Event na stronie <a href="https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent" target="_blank">MDN</a>,
+                                            </li>
+                                            <li class="list-group-item">
+                                                - kody dla <a href="http://keycode.info/" target="_blank">klawiszy</a>,
+                                            </li>
+                                            <li class="list-group-item">
+                                                - trochę przykładów: <a href="https://github.com/zacniewski/materials-about-internet-apps-and-www-websites/blob/main/zastosowania-java-script/scripts/3-event-handling.js" target="_blank">plik JS z teorią i kodem</a> oraz odpowiadający mu <a href="https://github.com/zacniewski/materials-about-internet-apps-and-www-websites/blob/main/zastosowania-java-script/event-handling.html" target="_blank">plik HTML</a>,
+                                            </li>
+                                            <li class="list-group-item">
+                                                - plusy za zróżnicowanie elementów za pomocą których realizowana będzie obsługa zdarzeń (elementy HTML, obiekt 'document', obiekt 'window') oraz za użycie metody removeEventListener().
+                                            </li>
+                                            <a name="lab4"></a>
+                                        </ul>
+                                    </div>
                                 </div>
                             </div>
-                            <div class="col-xl-6 col-md-6">
-                                <div class="card bg-success text-white mt-4 mb-4">
-                                    <div class="card-body">Python</div>
-                                    <ul class="list-group list-group-flush  text-dark">
-                                        <li class="list-group-item">Cras justo odio</li>
-                                        <li class="list-group-item">Dapibus ac facilisis in</li>
-                                        <li class="list-group-item">Vestibulum at eros <a href="index.html">dwedwew</a></li>
-                                      </ul>
-                                </div>
-                            </div>
-                        </div>
+                        </div> <!--lab 3-->
+
                         <div class="row">
-                            <div class="col-xl-6 col-md-6">
-                                <div class="card badge-success mt-4 mb-4">
-                                    <div class="card-body">Przetwarzanie obrazów w przeglądarce</div>
-                                    <ul class="list-group list-group-flush  text-dark">
-                                        <li class="list-group-item">Cras justo odio</li>
-                                        <li class="list-group-item">Dapibus ac facilisis in</li>
-                                        <li class="list-group-item">Vestibulum at eros <a href="index.html">dwedwew</a></li>
-                                      </ul>
+                            <div class="col-xl-12 col-md-12">
+                                <div class="card mt-4 mb-4">
+                                    <div class="card-body badge-success">
+                                        <h4>Lab. nr <span class="badge badge-primary badge-pill">4</span> - "Gra przeglądarkowa"</h4>
+                                    </div>
+                                    <div class="card-body">
+                                        <ul class="list-group list-group-flush text-dark">
+                                            <li class="list-group-item">
+                                                - do zrealizowania jest gra przeglądarkowa, inna niż była omawiana na zajęciach,
+                                            </li>
+                                            <li class="list-group-item">
+                                                - należy wykorzystać element &lt;canvas&gt; do implementowania podstawowych mechanik gry jak renderowanie, przesuwanie grafik, wykrywanie kolizji, mechanizmu sterowania oraz stanu wygrania/przegrania,
+                                            </li>
+                                            <li class="list-group-item">
+                                                - nie należy korzystać z silników gier, dopuszczalna prosta biblioteka JS, np. jQuery
+                                            </li>
+                                            <li class="list-group-item">
+                                                - wskazany dokładny opis tego, co robi dana funkcja lub wybrany fragment kodu,
+                                            </li>
+                                            <li class="list-group-item">
+                                                - wskazane użycie event listenerów, obsługa klawiszy i/lub myszki, itp.,
+                                            </li>
+                                            <li class="list-group-item">
+                                                - przykładowe gry dostępne <a href="https://dev.to/gscode/10-best-of-javascript-games-3mjj" target="_blank">tutaj</a>,
+                                            </li>
+                                            <li class="list-group-item">
+                                                - plusy za modyfikacje, dobre komentarze i oryginalność (za wrzucenia gry bez zmian maks. liczba punktów to '3').
+                                            </li>
+                                            <a name="lab5"></a>
+                                        </ul>
+                                    </div>
                                 </div>
                             </div>
-                            <div class="col-xl-6 col-md-6">
-                                <div class="card bg-success text-white mt-4 mb-4">
-                                    <div class="card-body">Moje posty dla Idego Group</div>
-                                    <ul class="list-group list-group-flush  text-dark">
-                                        <li class="list-group-item">Cras justo odio</li>
-                                        <li class="list-group-item">Dapibus ac facilisis in</li>
-                                        <li class="list-group-item">Vestibulum at eros <a href="index.html">dwedwew</a></li>
-                                      </ul>
+                        </div> <!--lab 4-->
+
+                        <div class="row">
+                            <div class="col-xl-12 col-md-12">
+                                <div class="card mt-4 mb-4">
+                                    <div class="card-body badge-success">
+                                        <h4>Lab. nr <span class="badge badge-primary badge-pill">5</span> - "Asynchroniczny Javascript"</h4>
+                                    </div>
+                                    <div class="card-body">
+                                        <ul class="list-group list-group-flush text-dark">
+                                            <li class="list-group-item">
+                                                - ciekawie wyłumaczone <a href="https://james-priest.github.io/udacity-nanodegree-mws/course-notes/asynchronous-javascript-requests.html" target="_blank"></a>,
+                                            </li>
+                                            <li class="list-group-item">
+                                                - przykłady z zajęć dostępne na repo <a href="https://github.com/zacniewski/materials-about-internet-apps-and-www-websites/blob/main/zastosowania-java-script/scripts/5a-async.js" target="_blank">tutaj</a> i <a href="https://github.com/zacniewski/materials-about-internet-apps-and-www-websites/blob/main/zastosowania-java-script/scripts/5-async.js" target="_blank">tutaj</a>),
+                                            </li>
+                                            <li class="list-group-item">
+                                                - zasoby do użycia dostępne <a href="https://jsonplaceholder.typicode.com/" target="_blank">tutaj</a> w dziale 'Resources' (6 rodzajów) lub <a href="https://restcountries.eu/" target="_blank">tutaj</a> , albo <a href="https://www.programmableweb.com/apis/directory" target="_blank">tutaj</a>,
+                                            </li>
+                                            <li class="list-group-item">
+                                                - np. gdy chcemy uzyskać dostęp do usera nr 3 wpisujemy: <code>https://jsonplaceholder.typicode.com/users/3</code>,
+                                            </li>
+                                            <li class="list-group-item">
+                                                - gdy chcemy pobrać obiekt JSON z ww. strony, to można to zrobić np. za pomocą funkcji <a href="https://api.jquery.com/jquery.getjson/" target="_blank">getJSON</a>:  
+                                                <pre><code>
+                                                $.getJSON( "https://jsonplaceholder.typicode.com/users/10", function( data ) {
+                                                  let name = data.name;
+                                                  let id = data.id;
+                                                  console.log( "User " + name + " has id=" + id); // User Clementina DuBuque has id=10
+                                                 });
+                                                </code></pre>
+                                            </li>
+                                            <li class="list-group-item">
+                                                - należy zrealizować po dwa przykłady do każdego z sześciu poniższych punktów, wykorzystując ww. API w punktach 2-6:
+                                                <ol>
+                                                    <li>
+                                                        funkcja zwrotna (callback):<br>
+                                                        - przykłady tworzenia funkcji zwrotnych: <a href="https://kursjs.pl/kurs/super-podstawy/funkcje-tematy-dodatkowe.php#callback" target="_blank">tutaj</a> i <a href="https://javascript.info/callbacks" target="_blank">tutaj</a><br/>
+                                                        - utwórz obiekt JSON, zawierający w środku co najmniej podwójnie zagnieżdżone obiekty JSON,<br/>
+                                                        - ww. obiekty powinny zawierać w tablicach i wartościach obiektów liczby i łańcuch znakowe,<br/>
+                                                        - task1: wykorzystaj funkcję zwrotną do pobrania dwóch różnych wartości liczbowych (z różnych poziomów zagnieżdżenia) z ww. obiektu JSON i wykonaj wybrane działanie na tych liczbach,<br/>
+                                                        - task 2: wykorzystaj funkcję zwrotną do pobrania dwóch różnych łańcuchów znakowych (z różnych poziomów zagnieżdżenia) z ww. obiektu JSON i za pomocą <a href="https://kursjs.pl/kurs/es6/template-strings.php" target="_blank">template strings</a> stwórz łańcuch znakowy z użyciem obu wcześniej wyekstrahowanych łańcuchów znakowych.<br/> 
+                                                    </li><br>
+                                                                     
+                                                    <li>
+
+                                                    obiekt Promise (resolve, reject) z metodami then(), catch() i finally() + axios (lub fetch):<br>
+                                                        - task 1: wykorzystaj obiekt Promise do pobrania dwóch różnych zasobów liczbowych i napisz funkcję wykonującą wybrane działanie na tych liczbach,<br>
+                                                        - task 2: wykorzystaj obiekt Promise do pobrania dwóch różnych dowolnych zasobów i napisz funkcję tworzącą z nich nowy obiekt,<br>
+                                                        - należy pamiętać o obsłudze wszystkich pięciu metod obiektu Promise,<br>
+                                                        - do pobierania zasobów należy wykorzystać metodę <code>fetch</code> lub bibliotekę <code>axios</code>.<br>
+                                                    </li><br>
+
+                                                    <li>
+                                                    async/await + fetch (lub axios):<br>
+                                                        - task 1: jak wyżej, <br>
+                                                        - task 2: jak wyżej, <br>
+                                                        - należy stworzyć funkcje wykorzystujące składnię async/await,<br>
+                                                        - do pobierania zasobów należy wykorzystać metodę <code>fetch</code> lub bibliotekę <code>axios</code>.<br>
+                                                    </li><br>
+                                                    <li>
+                                                    Zapytania <a href=">https://javascript.info/xmlhttprequest" target="_blank">AJAX</a>:<br>
+                                                        - task 1: jak w pkt. 2 i 3,<br>
+                                                        - task 2: jak w pkt. 2 i 3,<br>
+                                                        - należy obsłużyć sukces zapytania (właściwość 'onload' obiektu XHR),<br>
+                                                        - należy obsłużyć błąd zapytania (właściwość 'onerror' obiektu XHR).<br>
+                                                    </li><br>
+                                                    <li> 
+                                                    metoda <a href="https://kursjs.pl/kurs/ajax/fetch.php" target="_blank">fetch</a>:<br>
+                                                        - task 1: jak w pkt. 2 i 3,<br>
+                                                        - task 2: jak w pkt. 2 i 3,<br>
+                                                        - nie używamy async/await.<br>
+                                                    </li>  <br>
+                                                    <li>
+                                                    bibliotexa <a href="https://github.com/axios/axios" target="_blank">axios</a>:<br>
+                                                        - task 1: jak w pkt. 2 i 3,<br>
+                                                        - task 2: jak w pkt. 2 i 3,<br>
+                                                        - obiekt axios dostępny będzie jako <code>response.data</code> (patrz przykłady),<br>
+                                                        - nie używamy async/await,<br>
+                                                        - wystarczy użyć plików z CDN, opisanych w linku do biblioteki i umieścić je przed końcem sekcji 'body'.
+                                                    </li> 
+                                                </ol>
+                                            </li>    
+                                              <a name="lab6"></a>
+                                        </ul>
+                                    </div>
                                 </div>
                             </div>
-                        </div>
+                        </div> <!--lab 5-->
+
+                        <div class="row">
+                            <div class="col-xl-12 col-md-12">
+                                <div class="card mt-4 mb-4">
+                                    <div class="card-body badge-success">
+                                        <h4>Lab. nr <span class="badge badge-primary badge-pill">6</span> - "React - aplikacja nr 1"</h4>
+                                    </div>
+                                    <div class="card-body">
+                                        <ul class="list-group list-group-flush text-dark">
+                                            <li class="list-group-item">
+                                                - w aplikacji należy zrealizować nw. zadania,
+                                            </li>
+                                            <li class="list-group-item">
+                                                - tworzenie aplikacji za pomocą modułu 'create-react-app',
+                                            </li>
+                                            <li class="list-group-item" >
+                                                - tworzenie komponentów funkcyjnych i klasowych,
+                                            </li>
+                                            <li class="list-group-item">
+                                                - należy utworzyć komponent nadrzędny i dwa komponenty potomne, mogą to być np. tabele, listy 'ol' lub 'ul', obrazki itp. Dowolność wyboru, aby nie były to przykłady zbyt zbliżone do tych z repo,
+                                            </li>
+                                            <li class="list-group-item">
+                                                -  należy wykorzystać props (atrybuty, właściwosci) przy przekazywaniu danych do komponentu potomnego,
+                                            </li>
+                                            <li class="list-group-item">
+                                                - należy wykorzystać state (stan) przy tworzeniu komponentu klasowego,
+                                            </li>
+                                            <li class="list-group-item">
+                                                - należy dodać plik .css do wybranych komponentów,
+                                            </li>
+                                            <li class="list-group-item">
+                                                - należy zastosować funkcję <code>map()</code> przy generowaniu komponentów i należy pamiętać o atrybucie <code>key</code>,
+                                            </li>
+                                            <li class="list-group-item">
+                                                - należy zrealizowac wysyłanie funkcji za pomocą 'props',
+                                            </li>
+                                            <li class="list-group-item">
+                                                - plusy za wykorzystanie <a href="https://create-react-app.dev/docs/adding-bootstrap/" target="_blank">Bootstrap'a</a>lub <a href="https://react-bootstrap.netlify.app/getting-started/introduction" target="_blank">react-bootstrap'a</a> w aplikacji.
+                                            <a name="lab7"></a>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div> <!--lab 6-->
+
+                        <div class="row">
+                            <div class="col-xl-12 col-md-12">
+                                <div class="card mt-4 mb-4">
+                                    <div class="card-body badge-success">
+                                        <h4>Lab. nr <span class="badge badge-primary badge-pill">7</span> - "React - aplikacja nr 2"</h4>
+                                    </div>
+                                    <div class="card-body">
+                                        <ul class="list-group list-group-flush text-dark">
+                                            <li class="list-group-item">
+                                                - wykorzystanie <a href="https://material-ui.com/" target="_blank">Material UI</a> oraz <a href="https://reactrouter.com/" target="_blank">React-Router</a>,
+                                            </li>
+                                            <li class="list-group-item">
+                                                - <a href="https://material-ui.com/getting-started/installation/" target="_blank">instalacja</a> Material UI,
+                                            </li>
+                                            <li class="list-group-item">
+                                                - początki z <a href="https://material-ui.com/getting-started/learn/" target="_blank">Material UI</a>,
+                                            </li>
+                                            <li class="list-group-item">
+                                                - przykład użycia Material UI z <a href="https://www.freecodecamp.org/news/meet-your-material-ui-your-new-favorite-user-interface-library-6349a1c88a8c/" target="_blank">freecodecamp</a>,
+                                            </li>
+                                            <li class="list-group-item">
+                                                - routing po stronie serwera i po stronie klienta, czyli po co nam <a href="https://bulldogjob.pl/news/963-routing-po-stronie-klienta-z-react-router" target="_blank">React-Router</a>, proszę przeczytać przy ☕ lub 🍺 (małym),
+                                            </li>
+                                            <li class="list-group-item">
+                                                - instalacja i proste przykłady użycia <a href="https://reactrouter.com/web/guides/quick-start" target="_blank">React-Router'a</a>,
+                                            </li>
+                                            <li class="list-group-item">
+                                                - zadanie, to wykorzystać dwie ww. biblioteki react'owe do utworzenia prostej SPA:
+                                                <ul>
+                                                    <li>
+                                                        należy stworzyć trzy "podstrony" (komponenty <code>Link</code>, <code>Switch</code> i <code>Route</code>,
+                                                    </li>
+                                                    <li>
+                                                        na każdej z ww. podstron powinny znaleźć się trzy różne komponenty z Material UI,
+                                                    </li>
+                                                    <li>
+                                                        plusy ➕➕➕ za wykorzystanie 'state', 'props', innych bibliotek (np. bootstrap).
+                                                    </li>
+                                                </ul>
+                                            </li>
+                                            <a name="lab8"></a>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div> <!--lab 7-->
+
+                        <div class="row">
+                            <div class="col-xl-12 col-md-12">
+                                <div class="card mt-4 mb-4">
+                                    <div class="card-body badge-success">
+                                        <h4>Lab. nr <span class="badge badge-primary badge-pill">8</span> - "React - aplikacja nr 2 + analiza kodu źródłowego + git difftool"</h4>
+                                    </div>
+                                    <div class="card-body">
+                                        <ul class="list-group list-group-flush text-dark">
+                                            <li class="list-group-item">
+                                                -  strona <a href="https://pl.reactjs.org/community/examples.html" target="_blank">nr 1</a> z przykładami do analizy,         
+                                            </li>
+                                            <li class="list-group-item">
+                                                -  strona <a href="https://reactjsexample.com/" target="_blank">nr 2</a> z przykładami do analizy,         
+                                            </li>   
+                                            <li class="list-group-item">
+                                                - przykłady wykorzystania komendy <a href="https://www.youtube.com/watch?v=Wk-IK2uJt28" target="_blank">git difftool</a>) (do obejrzenia przy ☕ lub 🍺),
+                                            </li>
+                                            <li class="list-group-item">
+                                                - można wykorzystać inną wybraną przez siebie stronę z przykładami,
+                                            </li>
+                                            <li class="list-group-item">
+                                                - należy rozsądnie wybrać przykład z jednej z ww. stron,  niektóre przykłady są dośc trywialne - ograniczają sie do instalacji wybranego pakietu i kilku prostych przypadków użycia,
+                                            </li>
+                                            <li class="list-group-item">
+                                                - przykład należy przeanalizować i dokonać swoich modyfikacji,
+                                            </li>
+                                            <li class="list-group-item">
+                                                - należy dokładnie opisać (skomentować) kod aplikacji (zainstalowane moduły, użyte komponenty itp.) oraz wprowadzone własne modyfikacje,
+                                            </li>
+                                            <li class="list-group-item">
+                                                - ww. modyfikacje kodu należy zaprezentować wizualnie na zrzucie ekranu po komendzie <code>difftool</code>,
+                                            </li>
+                                            <li class="list-group-item">
+                                                - w pliku README należy umieścić link do oryginalnego przykładu,
+                                            </li>
+                                            <li class="list-group-item">
+                                                - plusy ➕➕➕ za wykorzystanie 'spread operator', 'Object.assign', 'uniqid' i innych pakietów Reactów, elementów JS nie wykorzystywanych we wcześniejszych zadaniach.
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div> <!--lab 8-->
+
+                        <div class="row">
+                            <div class="col-xl-12 col-md-12">
+                                <div class="card mt-4 mb-4">
+                                    <div class="card-body badge-success">
+                                        <h4>Zasady zaliczenia przedmiotu</h4>
+                                    </div>
+                                    <div class="card-body">
+                                        <ol class="list-group list-group-flush text-dark">
+                                            <li class="list-group-item">
+                                                Dowolny język do realizacji zadań, tam gdzie da sie zastosować inne niż wskazane w danym laboratorium. 
+                                            </li>
+                                            <li class="list-group-item">
+                                                Zadanie należy zrealizować do kolejnych zajęć - max. 5 punktów,<br> 
+                                                - do tygodnia opóźnienia w realizacji zadania - max. 3 punkty,<br>
+                                                - przekroczenie obu terminów - max. 1 punkt,<br>
+                                                - ww. daty wskazane są w pliku z ocenami.
+                                            </li>
+                                            <li class="list-group-item">
+                                                Zrealizowane zadanie należy umieścić na portalu GitHub (lub BitBucket) i wysłać link do prowadzącego (Slack).
+                                            </li>
+                                            <li class="list-group-item">
+                                                Zadanie należy zaprezentować osobiście prowadzącemu na laboratorium (zdalnie popre udostępnianie ekranu). 
+                                            </li>
+                                            <li class="list-group-item">
+                                                Pierwsze laboratorium jest "rozruchowe" - można oddawać zadania, ale nie trzeba.
+                                            </li>
+                                            <li class="list-group-item">
+                                                Brak odpowiedniej liczby punktów spowoduje konieczność stworzenia nowych projektów.
+                                            </li>
+                                            <li class="list-group-item">
+                                                Do każdego zadania dobrze jest dodać pliki (dodać do repozytorium) zawierające zrzuty działającej aplikacji.
+                                                Przyspieszy to proces sprawdzania.                                             </li>
+                                            <li class="list-group-item">
+                                                Brak znajomości utworzonej aplikacji powoduje obniżenie oceny.                                            </li>
+                                        </ol>
+                                    </div>
+                                </div>
+                            </div>
+                        </div> <!--zasady-->
                     </div>
                 </main>
                 <footer class="py-4 sb-sidenav-dark mt-auto text-center">
