@@ -152,63 +152,34 @@ permalink: /tasks-internet-apps/
                             <div class="col-xl-12 col-md-12">
                                 <div class="card mt-4 mb-4">
                                     <div class="card-body badge-success">
-                                        <h4>Lab. nr <span class="badge badge-primary badge-pill">2</span> - "Praca z elementami DOM z wykorzystaniem Javascript"</h4>
+                                        <h4>Lab. nr <span class="badge badge-primary badge-pill">2</span> - "Zarządzanie  użytkownikami"</h4>
                                     </div>
                                     <div class="card-body">
                                         <ul class="list-group list-group-flush text-dark">zadania z JavaScript
                                             <li class="list-group-item">
-                                                - zadanie polega na wykorzystaniu Java Script (vanilla, jQuery lub inny) do wyświeltlania, modyfikowania, tworzenia (itp. itd.) elementów strony związanych z HTML i CSS,                                            
+                                                -  należy wykorzystać wbudowane <a href="https://docs.djangoproject.com/en/3.1/topics/auth/default/#module-django.contrib.auth.views" target="_blank">widoki uwierzytelniające</a>,                                            
                                             </li>
                                             <li class="list-group-item">
-                                                - należy użyć wybrany (dowolny) framework front-endowy do tego zadania,
-                                            </li>
+                                                - należy zrealizować następujące operacje: 
+                                                 <ul>
+                                                    <li>
+                                                        widoki 'login' i 'logout'
+                                                    </li>
+                                                    <li>
+                                                        widok od zmiany hasła (PasswordChangeView)
+                                                    </li>
+                                                    <li>
+                                                        widok od resetu hasła (PasswordResetView)
+                                                    </li>
+                                                    <li>
+                                                        do ww. widoku należy użyć ConsoleBackend do wysyłania maili i porobić zrzuty ekranu
+                                                    </li>
                                             <li class="list-group-item">
-                                                - jeden z najpopularniejszych to Bootstrap - np. pod tym <a href="https://getbootstrap.com/docs/4.5/getting-started/introduction/" target="_blank">linkiem </a> znajduje się dobry, prosty startowy szablon,
+                                                - plus za widok realizujący rejestrację usera (signup),
                                             </li>
+                                        </ul>
                                             <li class="list-group-item">
-                                                - <a href="https://getuikit.com/docs/installation" target="_blank">UI Kit</a> też jest ciekawy, jest jeszcze kilka innych &#128512;,
-                                            </li>
-                                            <li class="list-group-item">
-                                                - przydatna może być <a href="https://www.w3schools.com/jsref/default.asp" target="_blank">strona </a>o Javascript + DOM,
-                                            </li>
-                                            <li class="list-group-item">
-                                                - np. korzystając z ww. szablonu Bootstrap, można dodać przycisk z klasą <code>badge-light</code> do strony (np. pod nagłówkiem 'Hello world'):
-                                                                                            
-                                                <pre><code>
-                                                    &lt;button type="button" class="btn btn-primary"&gt;
-                                                            Notifications &lt;span class="badge badge-light">&lt;/span&gt;
-                                                    &lt;/button&gt;
-                                                </code></pre>
-                                                Poniżej, np. przed końcem sekcji <code>body</code> wrzucamy skrypt, który szuka elementu z klasą <code>badge-light</code> i ustawia jego wartość (innerHTML) na liczbę 6:
-                                                <pre><code>
-                                                    &lt;script&gt;
-                                                        let x = document.getElementsByClassName("badge-light");
-                                                        x[0].innerHTML = 6; // x[0] to pierwszy znaleziony element
-                                                    &lt;/script&gt;
-                                                </code></pre>
-                                            </li>
-                                            <li class="list-group-item">
-                                                - w podobny sposób należy wykorzystać inne dostępne metody i właściwości Java Script do modyfikacji elementów strony,
-                                            </li>
-                                            <li class="list-group-item">
-                                                -  wskazane użycie 20 różnych metod i właściwości Java Script do ww. modyfikacji, np.:
-                                                <code>document.body.style.backgroundColor = "red"; // właściwość 'backgroundColor' </code>
-                                                lub  
-                                                <pre><code>
-                                                    var node = document.createElement("LI");                 // Create a &lt;li&gt; node
-                                                    var textnode = document.createTextNode("Water");         // Create a text node
-                                                    node.appendChild(textnode);                              // Append the text to &lt;li&gt;
-                                                    document.getElementById("myList").appendChild(node);     // Append &lt;li&gt; to &lt;ul&gt; with id="myList"
-                                                </code></pre>
-                                            </li>
-                                            <li class="list-group-item">
-                                                - w powyższym przykładzie użyte zostały trzy metody, ale całość traktujemy jako jeden przypadek z 20 wymaganych,
-                                            </li>
-                                            <li class="list-group-item">
-                                                - użyj w wybranych przez siebie fragmentach kodu "trybu ścisłego" - <code>use strict;</code>
-                                            </li>
-                                            <li class="list-group-item">
-                                                - można do pomocy wykorzystać <a href="https://www.w3schools.com/jquery/jquery_dom_get.asp" target="_blank">jQuery</a>.
+                                                - plus za wrzucenia apki na wybrany PaaS.
                                             </li>
                                             <a name="lab3"></a>
                                         </ul>
