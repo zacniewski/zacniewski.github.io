@@ -507,70 +507,65 @@ permalink: /tasks-mobile-apps-react-native/
                             <div class="col-xl-12 col-md-12">
                                 <div class="card mt-4 mb-4">
                                     <div class="card-body badge-success">
-                                        <h4>Lab. nr <span class="badge badge-primary badge-pill d-inline">7</span> - geolokacja + mapy
+                                        <h4>Lab. nr <span class="badge badge-primary badge-pill d-inline">7</span> - wykorzystanie bazy danych w aplikacji
                                             <a class="btn btn-primary float-right d-inline" href="#start" role="button">Start</a> 
                                         </h4>
                                     </div>
                                     <div class="card-body">
                                         <ul class="list-group list-group-flush text-dark">
                                             <li class="list-group-item">
-                                                -  zadanie bazuje na rozdziale 19 literatury bazowej,                                            
+                                                -  zadanie bazuje na nw. linkach z dokumentacją,                                            
                                             </li>
                                             
                                             <li class="list-group-item">
                                                 - wskazane zapoznanie się (odświeżenie wiedzy) z:
                                                  <ul>
                                                     <li>
-                                                        <a href="https://developer.mozilla.org/en-US/docs/Web/API/Geolocation" target="_blank"> ideą</a> geolokalizacji,
+                                                        <a href="https://docs.expo.io/versions/latest/sdk/sqlite/" target="_blank"> dostęp do bazy SQLite</a> z wykorzystaniem Expo,
                                                     </li>
                                                     <li>
-                                                        <a href="https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API" target="_blank">Geolocation </a> API</a>,
+                                                        <a href="https://aboutreact.com/example-of-sqlite-database-in-react-native/" target="_blank">użycie modułu react-native-sqlite-storage </a> dla bazy SQLite tworzonej w momencie uruchomienia aplikacji</a>,
                                                     </li>
                                                     <li>
-                                                        <a href="https://github.com/necolas/react-native-web/issues/1537" target="_blank"> problemy </a> od wersji react-native-web@0.12,
-                                                        oraz z <a href="https://github.com/react-native-maps/react-native-maps/issues/3475" target="_blank"> react-native-web-maps </a>,  proszę o cierpliwość ...
-                                                    </li>
-                                                    <!--<li>
-                                                        <a href="https://kursjs.pl/kurs/obiekty/iteratory-generatory.php" target="_blank">zastosowaniem </a>iteratorów i generatorów,
+                                                        <a href="https://aboutreact.com/example-of-pre-populated-sqlite-database-in-react-native/" target="_blank">użycie modułu react-native-sqlite-storage </a> dla istniejącej bazy SQLite</a>,
                                                     </li>
                                                     <li>
-                                                        <a href="https://kursjs.pl/kurs/obiekty/map-set.php" target="_blank">ze strukturami danych </a>Map() i Set(),
+                                                        <a href="https://aboutreact.com/local-database-in-react-native-app/" target="_blank">informace nt. </a>lokalnych baz danych w React Native,
                                                     </li>
                                                     <li>
-                                                        <a href="https://reactnative.dev/docs/flatlist" target="_blank">dokumentacją </a> FlatList w RN</a>,
+                                                        <a href="https://infinitbility.com/react-native-sqlite-storage-examples-of-query" target="_blank">aplikacja do obsługi bazy </a> SQLite,
                                                     </li>
                                                     <li>
-                                                        <a href="https://reactnative.dev/docs/activityindicator" target="_blank">dokumentacją </a> ActivityIndicator w RN</a>,
+                                                        <a href="https://realm.io/" target="_blank">dokumentacją </a> mobilna baza danych </a> Realm, oferująca większe możliwości niż SQLite</a>,
                                                     </li>
                                                     <li>
-                                                        <a href="https://css-tricks.com/lots-of-ways-to-use-math-random-in-javascript/" target="_blank">przykładami użycia </a> funkcji Math.random()</a>,
-                                                    </li>-->
+                                                        <a href="https://aboutreact.com/example-of-realm-database-in-react-native/" target="_blank">użycie bazy Realm </a> w aplikacji z React Native</a>,
+                                                    </li>
+                                                    <li>
+                                                        <a href="https://github.com/andpor/react-native-sqlite-storage" target="_blank"> dokumentacja modułu </a> react-native-sqlite-storage</a>,
+                                                    </li>
                                                 </ul>
                                             </li>
-                                            <!--<li class="list-group-item">
+                                            <li class="list-group-item">
                                                 - poniższe zagadnienia powinny zostać zrealizowane:
                                                  <ul>
                                                     <li>
-                                                        wskazane użycie kodu z lab. nr 2, po to żeby mieć kilka ekranów &#127774;
+                                                        możliwe użycie kodu z lab. nr 2, po to żeby mieć kilka ekranów &#127774;
                                                     </li>
                                                     <li>
-                                                        na pierwszym ekranie należy zaimplementować sortowanie i filtrowanie danych; 
-                                                        danymi niech będzie 100 pseudolosowych liczb całkowitych z zakresu (0, 1000)</a>,
+                                                        należy zaimplementować użycie bazy danych (SQLite lub innej) w dwóch wariantach, opisanych poniżej,
                                                     </li>
                                                     <li>
-                                                        na drugim ekranie należy zaimplementować "leniwe ładowanie" (<i>lazy loading</i>) listy danych; 
-                                                        danymi niech będą <a href="https://www.programiz.com/javascript/examples/generate-random-strings" target="_blank">pseudolosowe litery</a>,
+                                                        w pierwszym wariancie tworzymy bazę w momencie uruchomienia aplikacji, a w drugim korzystamy z bazy danych już istiejącej   
                                                     </li>
                                                     <li>
-                                                        na ekranach od nr 3 do nr 5 należy zaimplementować progres krokowy (<i>step progress</i>); 
-                                                        na kolejnych ww. ekranach powinny znaleźć się elementy ActivityIndicator, 
-                                                        ostylowane inaczej na każdym z ekranów 3-5,
+                                                        można ww. warianty zrealizować w jednej aplikacji na osobnych ekranach lub stworzyć dwie osobne aplikacje,
                                                     </li>
                                                     <li>
-                                                        &#10133; za modyfikacje kodu (tak, by były inne niż te w przykładach).
+                                                        &#10133; za modyfikacje kodu (tak, by były inne niż te w przykładach), za użycie bazy danych innej niż SQLite.
                                                     </li>
                                                 </ul>
-                                            </li>-->
+                                            </li>
                                         </ul>
                                         <a name="zasady"></a>
                                     </div>
