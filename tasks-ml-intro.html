@@ -221,36 +221,27 @@ permalink: /tasks-ml-intro/
                                                     <li>
                                                         <p>pod <a href="https://jsonplaceholder.typicode.com/todos/" target="_blank">adresem</a> znajdziesz 200  zasobów typu ToDo,</p>
 
-                                                        <p>pojedynczy zasób jest dostępny np. pod adresem <code>https://jsonplaceholder.typicode.com/todos/3</code>
-                                                        </p>wygeneruj w pętli losowych kodów 3-literowych,
-                                                        generowane są trzyliterowe kody do momentu aż trafi się 5, które istnieją.
-                                                        inna opcja - na stronie z błędem 404 (dla nieistniejącego kodu) jest link do najbardziej pasującego rekordu, można go wyciągnąć za pomocą BS4 i stworzyć kolejne zapytanie,
-                                                        napisz kod, który dla wygenerowanych wyżej trzyliterowych kodów spółki wyświetli ich aktualną cenę (Kurs), procentową zmianę (Zmiana) oraz liczbę transakcji (Transakcje),
-                                                        zapisz wyniki do arkusza ‘Giełda’,
+                                                        <p>pojedynczy zasób jest dostępny np. pod adresem <code>https://jsonplaceholder.typicode.com/todos/x</code>, gdzie <code>x</code> to liczba z zakresu &lt;1, 200&gt;,
+                                                        </p>wygeneruj w pętli kolejne <b>pseudolosowe</b> adresy pojedynczych zasobów, aż do znalezienia trzech takich dla których <code>completed: true</code>. 
+                                                        Zapisz w arkuszu "Todos" wartości znalezionych 'id' oraz 'title'.</p>
                                                     </li>
                                                     <li>dla wybranej strony internetowej napisz kod, który połączy się ze stroną, znajdzie wszystkie linki (co najmniej 10) na stronie (znacznik ‘a’ posiadający atrybut ‘href’), a następnie zapisze je do arkusza ‘Linki’,
                                                     </li>
                                                     <li>    
-                                                    dla ustalonego linku do filmu na Filmwebie, np. tego, napisz kod, który zwróci:
+                                                    dla ustalonego linku do filmu na Filmwebie, np. <a href="https://www.filmweb.pl/film/Gladiator-2000-936" target="_blank">tego</a>, napisz kod, który zwróci:
+                                                        <ul>
+                                                        <li>nazwisko reżysera,</li>
+                                                        <li>datę premiery,</li>
+                                                        <li>boxoffice,</li>
+                                                        <li>ocenę filmu.</li>
+                                                    </ul>
+                                                    <p>zapisz uzyskane wyniki do arkusza ‘Filmweb’.</p>
                                                     
-                                                        nazwisko reżysera,
-                                                        datę premiery,
-                                                        boxoffice,
-                                                        ocenę filmu.
-                                                        zapisz uzyskane wyniki do arkusza ‘Filmweb’
-                                                    
-                                                    zapisz plik z wynikami trzech zadań w formie ‘nazwisko-grupa.xlsx’.      
                                                     </li>                                              </li>
                                                     <li>
-                                                        widok od resetu hasła (PasswordResetView)
-                                                    </li>
-                                                    <li>
-                                                        do ww. widoku należy użyć ConsoleBackend do wysyłania maili i porobić zrzuty ekranu
+                                                    zapisz plik z wynikami trzech zadań w formie ‘nazwisko-grupa.xlsx’.      
                                                     </li>
                                                  </ul>
-                                            <li class="list-group-item">
-                                                - plus za wrzucenia apki na wybrany PaaS.
-                                            </li>
                                             <a name="lab3"></a>
                                         </ul>
                                     </div>
