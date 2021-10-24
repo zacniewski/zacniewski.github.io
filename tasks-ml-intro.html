@@ -209,6 +209,9 @@ permalink: /tasks-ml-intro/
                                                 - proste operacje na plikach <a href="http://davinci.mimuw.edu.pl/samouczek-python-python/operacje-na-plikach" target="_blank">w Pythonie</a>,
                                             </li>
                                             <li class="list-group-item">
+                                                - menadżer kontekstu + <code>with()</code> przy pracy z plikami <a href="https://realpython.com/python-with-statement/" target="_blank">w Pythonie</a>,
+                                            </li>
+                                            <li class="list-group-item">
                                                 - praca z plikami za pomocą <a href="https://www.html5rocks.com/en/tutorials/file/dndfiles//" target="_blank">File API (JavaScript)</a>,
                                             </li>
                                             <li class="list-group-item">
@@ -227,16 +230,16 @@ permalink: /tasks-ml-intro/
                                                 - należy zrealizować następujące zadania: 
                                                  <ul>
                                                     <li>
-                                                        odczyt  pliku i wyświetlenie informacji w nim zawartej  za pomocą openpyxl trzy arkusze o nazwach "Todos", "Linki" i "Filmweb",
+                                                        odczyt  pliku (poprawne otwarcie i zamknięcie) oraz wyświetlenie informacji w nim zawartej (jedna linia i wiele linii),
                                                     </li>
                                                     <li>
-                                                        <p>pod <a href="https://jsonplaceholder.typicode.com/todos/" target="_blank">adresem</a> znajdziesz 200  zasobów typu ToDo,</p>
-
-                                                        <p>pojedynczy zasób jest dostępny np. pod adresem <code>https://jsonplaceholder.typicode.com/todos/x</code>, gdzie <code>x</code> to liczba z zakresu &lt;1, 200&gt;,
-                                                        </p>wygeneruj w pętli kolejne <b>pseudolosowe</b> adresy pojedynczych zasobów, aż do znalezienia trzech takich dla których <code>completed: true</code>. 
-                                                        Zapisz w arkuszu "Todos" wartości znalezionych 'id' oraz 'title'.</p>
+                                                        zapisywanie danych do pliku w różnych <a href="https://www.geeksforgeeks.org/file-handling-python/" target="_blank">trybach</a>,
                                                     </li>
-                                                    <li>dla wybranej strony internetowej napisz kod, który połączy się ze stroną, znajdzie wszystkie linki (co najmniej 10) na stronie (znacznik ‘a’ posiadający atrybut ‘href’), a następnie zapisze je do arkusza ‘Linki’,
+                                                    <li>
+                                                        zapisywanie danych do pliku  w formanie JSON,
+                                                    </li>
+                                                    <li>
+                                                        zapisywanie danych do pliku  w formanie CSV (proszę pamietać o właściwych rozszerzeniach plików!),
                                                     </li>
                                                     <li>    
                                                     dla ustalonego linku do filmu na Filmwebie, np. <a href="https://www.filmweb.pl/film/Gladiator-2000-936" target="_blank">tego</a>, napisz kod, który zwróci:
