@@ -260,7 +260,7 @@
 
 })()
 
-const elements = document.querySelectorAll('[class="purecounter"');
+elements = document.querySelectorAll('[class="purecounter"');
 for (let el in elements) {
-  el.valueOf() += '+'
+  console.log(el)
 }
