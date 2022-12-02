@@ -262,5 +262,5 @@
 
 elements = document.querySelectorAll('[class="purecounter"');
 for (let el in elements) {
-  console.log(el)
+  el.innerHTML += el.innerHTML = "+"
 }
