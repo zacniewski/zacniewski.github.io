@@ -259,3 +259,8 @@
   new PureCounter();
 
 })()
+
+const elements = document.querySelectorAll('[class="purecounter"');
+for (let el in elements) {
+  el.valueOf() += '+'
+}
