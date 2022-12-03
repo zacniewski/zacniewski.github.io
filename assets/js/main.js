@@ -260,5 +260,3 @@
 
 })()
 
-elements = document.querySelectorAll('[class="purecounter"');
-elements[0].innerHTML = elements[0].innerHTML + "+"
