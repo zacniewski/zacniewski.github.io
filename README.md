@@ -1,0 +1,2 @@
+### Information
+The [website](https://zacniewski.github.io/) connected to this repo mainly contains materials (links to repositories, tutorials, etc.), that I have used and still use in the development of the software :smiley:
