@@ -45,6 +45,19 @@
   scroll-behavior: smooth;
 }
 
+/* Stack Images Responsive Styling */
+#skills .card-img-top {
+  height: 150px;
+  object-fit: contain;
+  width: 100%;
+  padding: 10px;
+  transition: transform 0.3s ease;
+}
+
+#skills .card:hover .card-img-top {
+  transform: scale(1.05);
+}
+
 /*--------------------------------------------------------------
 # General Styling & Shared Classes
 --------------------------------------------------------------*/
