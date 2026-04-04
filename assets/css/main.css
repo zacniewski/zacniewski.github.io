@@ -90,6 +90,11 @@ body.dark-theme .light-background {
   --surface-color: #2c2c2c;
 }
 
+body.dark-theme .bg-light,
+body.dark-theme .card {
+  background-color: #222222 !important;
+}
+
 body.dark-theme .navmenu a {
   background: rgba(255, 255, 255, 0.1);
 }
