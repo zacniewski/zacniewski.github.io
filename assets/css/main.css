@@ -125,6 +125,34 @@ body.dark-theme .hero:before {
   background-color: color-mix(in srgb, var(--accent-color) 90%, white 15%);
 }
 
+.lang-toggle {
+  position: fixed;
+  top: 15px;
+  right: 120px;
+  z-index: 9999;
+  cursor: pointer;
+  height: 40px;
+  border-radius: 20px;
+  background-color: var(--accent-color);
+  color: var(--contrast-color);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0 12px;
+  font-size: 14px;
+  font-weight: 600;
+  transition: 0.3s;
+}
+
+.lang-toggle a {
+  color: var(--contrast-color);
+  text-decoration: none;
+}
+
+.lang-toggle:hover {
+  background-color: color-mix(in srgb, var(--accent-color) 90%, white 15%);
+}
+
 /* Nav Menu Colors - The following color variables are used specifically for the navigation menu. They are separate from the global colors to allow for more customization options */
 :root {
   --nav-color: #45505b;  /* The default color of the main navmenu links */
