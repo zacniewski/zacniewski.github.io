@@ -1,0 +1,167 @@
+/*--------------------------------------------------------------
+# Tabler-inspired enhancements (illustrations, icons, UI patterns)
+--------------------------------------------------------------*/
+
+/* Navigation icons (Tabler Icons) */
+.navmenu a .ti {
+  font-size: 20px;
+  line-height: 0;
+}
+
+/* Section illustrations */
+.section-illustration {
+  display: block;
+  margin: 0 auto 10px auto;
+  max-width: 160px;
+  height: auto;
+}
+
+/* Resources cards */
+.services .service-item {
+  border-top: 4px solid var(--accent-color);
+  padding: 30px 25px;
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.services .service-item:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.15);
+}
+
+.services .service-item .icon {
+  width: 100%;
+  height: 150px;
+}
+
+.services .service-item .icon img {
+  max-width: 100%;
+  max-height: 150px;
+}
+
+.services .service-item .badge-updated {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 4px 10px;
+  border-radius: 999px;
+  font-size: 12px;
+  font-weight: 500;
+  color: var(--accent-color);
+  background-color: color-mix(in srgb, var(--accent-color), transparent 88%);
+}
+
+/* My stack - avatar list */
+.stack-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 24px;
+}
+
+.stack-list .stack-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100px;
+}
+
+.stack-list .stack-avatar {
+  width: 72px;
+  height: 72px;
+  padding: 12px;
+  border-radius: 50%;
+  background-color: var(--surface-color, #fff);
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
+  object-fit: contain;
+  transition: transform 0.3s;
+}
+
+.stack-list .stack-item:hover .stack-avatar {
+  transform: scale(1.12);
+}
+
+.stack-list .stack-name {
+  margin-top: 8px;
+  font-size: 14px;
+  font-weight: 500;
+}
+
+/* Resume - timeline */
+.resume .resume-title {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.resume .resume-title .ti {
+  color: var(--accent-color);
+}
+
+.resume .resume-item h5 {
+  border-radius: 999px;
+}
+
+/* Footer - social buttons */
+.site-footer {
+  background-color: hsl(218, 62.2%, 95%);
+}
+
+.site-footer .social-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 48px;
+  height: 48px;
+  margin: 6px;
+  border-radius: 50%;
+  color: #fff;
+  font-size: 22px;
+  transition: transform 0.3s, opacity 0.3s;
+}
+
+.site-footer .social-btn:hover {
+  transform: translateY(-4px);
+  opacity: 0.85;
+  color: #fff;
+}
+
+.site-footer .social-github { background-color: #333333; }
+.site-footer .social-so { background-color: #f48024; }
+.site-footer .social-rg { background-color: #00ccbb; }
+.site-footer .social-linkedin { background-color: #0a66c2; }
+.site-footer .social-www { background-color: #0082ca; }
+.site-footer .social-x { background-color: #000000; }
+
+.site-footer .copyright {
+  background-color: hsla(218, 62.2%, 35%, 0.2);
+}
+
+/* Dark theme */
+body.dark-theme .section-illustration,
+body.dark-theme .services .service-item .icon img {
+  filter: brightness(0.9);
+}
+
+body.dark-theme .stack-list .stack-avatar {
+  background-color: #2c2c2c;
+}
+
+body.dark-theme .site-footer .copyright {
+  background-color: rgba(255, 255, 255, 0.05);
+}
+
+/* 404 page */
+.error-page {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 30px;
+}
+
+.error-page img {
+  max-width: 420px;
+  width: 100%;
+}
