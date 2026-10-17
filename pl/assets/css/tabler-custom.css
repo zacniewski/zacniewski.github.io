@@ -165,3 +165,80 @@ body.dark-theme .site-footer .copyright {
   max-width: 420px;
   width: 100%;
 }
+
+/* Resource tables (Tabler "card-table" style) */
+.table-card {
+  border: 1px solid rgba(4, 32, 69, 0.1);
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(4, 32, 69, 0.04);
+  overflow: hidden;
+  background-color: var(--surface-color, #fff);
+}
+
+.table-card .card-table {
+  margin-bottom: 0;
+  --bs-table-bg: transparent;
+  --bs-table-hover-bg: color-mix(in srgb, var(--accent-color), transparent 94%);
+}
+
+.table-card .card-table thead th {
+  background-color: #f6f8fb;
+  color: #667382;
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  padding: 0.75rem 1rem;
+  border-bottom: 1px solid rgba(4, 32, 69, 0.1);
+  white-space: nowrap;
+}
+
+.table-card .card-table td,
+.table-card .card-table tbody th {
+  padding: 0.75rem 1rem;
+  vertical-align: middle;
+  border-bottom: 1px solid rgba(4, 32, 69, 0.07);
+}
+
+.table-card .card-table tbody tr:last-child td,
+.table-card .card-table tbody tr:last-child th {
+  border-bottom: 0;
+}
+
+.table-card .card-table tbody th[scope="row"] {
+  width: 3.5rem;
+  color: #667382;
+  font-weight: 500;
+}
+
+.table-card .card-table td a {
+  font-weight: 500;
+  text-decoration: none;
+}
+
+.table-card .card-table td a:hover {
+  text-decoration: underline;
+}
+
+body.dark-theme .table-card {
+  background-color: #1f1f1f;
+  border-color: rgba(255, 255, 255, 0.1);
+}
+
+body.dark-theme .table-card .card-table {
+  --bs-table-color: #ddd;
+  color: #ddd;
+}
+
+body.dark-theme .table-card .card-table thead th {
+  background-color: #2a2a2a;
+  color: #9aa0ac;
+  border-bottom-color: rgba(255, 255, 255, 0.1);
+}
+
+body.dark-theme .table-card .card-table td,
+body.dark-theme .table-card .card-table tbody th {
+  background-color: transparent;
+  color: #ddd;
+  border-bottom-color: rgba(255, 255, 255, 0.07);
+}
